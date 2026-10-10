@@ -16,6 +16,7 @@ import streamlit as st
 
 from whatsapp_analyzer import analysis
 from whatsapp_analyzer.parser import ANDROID, DAY_FIRST, MONTH_FIRST, YEAR_FIRST, load_export, parse_chat
+from whatsapp_analyzer.text import parse_custom_stopwords
 
 EXAMPLES = Path(__file__).parent / "examples"
 SAMPLES = {
@@ -261,6 +262,55 @@ def show_people(df: pd.DataFrame, filtered: bool) -> None:
     st.caption("Words and characters per message are averages over text messages, media left out.")
 
 
+def word_cloud_image(frequencies: dict[str, int]):
+    """Draw the word cloud, or return None when the wordcloud package is missing."""
+    try:
+        from wordcloud import WordCloud
+    except ImportError:
+        return None
+    shades = BLUE_RAMP[2:]
+
+    def blue(word, font_size, position, orientation, random_state, **_):
+        return shades[random_state.randint(0, len(shades) - 1)]
+
+    cloud = WordCloud(width=1400, height=560, background_color="white", color_func=blue, random_state=7, max_words=120)
+    return cloud.generate_from_frequencies(frequencies).to_image()
+
+
+def show_words(df: pd.DataFrame, top_n: int, custom_stopwords: set[str], want_cloud: bool) -> None:
+    words = analysis.top_words(df, top_n, custom_stopwords)
+    emojis = analysis.top_emojis(df, top_n)
+    left, right = st.columns(2)
+    with left:
+        st.markdown(f"**Top {len(words)} words**")
+        if words.empty:
+            st.write("No words to count.")
+        else:
+            st.altair_chart(ranked_bars(words, "word", "count", "Times used"), width="stretch")
+            show_table(words)
+    with right:
+        st.markdown(f"**Top {len(emojis)} emojis**")
+        if emojis.empty:
+            st.write("No emojis found.")
+        else:
+            st.altair_chart(ranked_bars(emojis, "emoji", "count", "Times used", label_size=18), width="stretch")
+            show_table(emojis)
+    ignored = f" and {len(custom_stopwords)} of your own" if custom_stopwords else ""
+    st.caption(
+        f"Common English words (the, and, is, ...){ignored} are left out. Links, numbers and media "
+        "placeholders are not counted as words. Add your own words to ignore under Options in the sidebar."
+    )
+
+    if want_cloud and not words.empty:
+        st.markdown("**Word cloud**")
+        image = word_cloud_image(analysis.word_frequencies(df, custom_stopwords))
+        if image is None:
+            st.info("The word cloud needs the `wordcloud` package: `pip install wordcloud`.")
+        else:
+            st.image(image, width="stretch")
+            st.caption("Bigger words are used more often. The built-in font only draws Latin letters.")
+
+
 def main() -> None:
     st.title("WhatsApp Chat Analyzer")
     st.caption("Statistics for an exported WhatsApp chat, worked out on your own machine.")
@@ -274,6 +324,16 @@ def main() -> None:
     person_slot = st.sidebar.container()
     with st.sidebar.expander("Options"):
         date_order = DATE_ORDERS[st.selectbox("Date order", list(DATE_ORDERS), key="date_order")]
+        top_n = st.slider("How many top words and emojis", 5, 40, 15, key="top_n")
+        custom_stopwords = parse_custom_stopwords(
+            st.text_area(
+                "Extra words to ignore",
+                key="custom_stopwords",
+                placeholder="haha, ok, yeah",
+                help="Separate words with commas, spaces or new lines.",
+            )
+        )
+        want_cloud = st.checkbox("Show a word cloud", key="word_cloud")
 
     try:
         df, info = parse(data, filename, date_order)
@@ -297,11 +357,13 @@ def main() -> None:
     st.subheader("Whole chat" if person == EVERYONE else f"Only {person}")
     show_overall(view)
 
-    activity_tab, people_tab = st.tabs(["Activity", "People"])
+    activity_tab, people_tab, words_tab = st.tabs(["Activity", "People", "Words and emojis"])
     with activity_tab:
         show_activity(view)
     with people_tab:
         show_people(df, filtered=person != EVERYONE)
+    with words_tab:
+        show_words(view, top_n, custom_stopwords, want_cloud)
 
 
 main()

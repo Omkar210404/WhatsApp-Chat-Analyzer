@@ -22,8 +22,8 @@ from whatsapp_analyzer.parser import (
     parse_file,
 )
 
-LRM = "‎"  # the invisible mark iPhone puts before system and media text
-NNBSP = " "  # the narrow no-break space newer exports put before AM/PM
+LRM = "\u200e"  # the invisible mark iPhone puts before system and media text
+NNBSP = "\u202f"  # the narrow no-break space newer exports put before AM/PM
 
 
 def only(text, **kwargs):
@@ -77,7 +77,7 @@ def test_iphone_12_hour_month_first():
         ("9:15 pm", 21),
         ("9:15 p.m.", 21),
         (f"9:15{NNBSP}PM", 21),
-        ("9:15 PM", 21),
+        ("9:15\u00a0PM", 21),
         ("9:15 AM", 9),
         ("12:15 AM", 0),
         ("12:15 PM", 12),
@@ -227,7 +227,7 @@ def test_a_person_typing_a_system_phrase_is_still_a_message():
         f"[25/12/2023, 21:15:03] Mira: {LRM}sticker omitted",
         f"[25/12/2023, 21:15:03] Mira: {LRM}GIF omitted",
         f"[25/12/2023, 21:15:03] Mira: {LRM}<attached: 00000012-PHOTO-2023-12-25-21-15-03.jpg>",
-        f"[25/12/2023, 21:15:03] Mira: route.pdf • {LRM}3 pages {LRM}document omitted",
+        f"[25/12/2023, 21:15:03] Mira: route.pdf \u2022 {LRM}3 pages {LRM}document omitted",
     ],
 )
 def test_media_placeholders(line):
@@ -260,7 +260,7 @@ def test_edited_tag_is_removed():
 
 
 def test_bom_marks_and_crlf_are_handled():
-    text = "﻿25/12/2023, 21:15 - Mira: one\r\n‎25/12/2023, 21:16 - ‪+00 0000 000000‬: two\r\n"
+    text = "\ufeff25/12/2023, 21:15 - Mira: one\r\n\u200e25/12/2023, 21:16 - \u202a+00 0000 000000\u202c: two\r\n"
     result = parse_chat(text)
     assert [m.text for m in result.messages] == ["one", "two"]
     assert result.messages[1].sender == "+00 0000 000000"

@@ -61,9 +61,9 @@ class ParseResult:
 
 # Invisible direction marks. iPhone puts U+200E at the start of system and
 # media lines, Android wraps phone numbers in U+202A ... U+202C.
-_MARKS = re.compile("[‎‏‪-‮﻿]")
+_MARKS = re.compile("[\u200e\u200f\u202a-\u202e\ufeff]")
 # No-break spaces. Newer exports put U+202F between the time and AM/PM.
-_ODD_SPACES = re.compile("[  ]")
+_ODD_SPACES = re.compile("[\u00a0\u202f]")
 
 _DATE = r"(\d{1,4})[./-](\d{1,2})[./-](\d{1,4})"
 _TIME = r"(\d{1,2})[:.](\d{2})(?:[:.](\d{2}))?(?:\s?([AaPp])\.?\s?[Mm]\.?)?"
@@ -113,7 +113,7 @@ _MEDIA = re.compile(
     ),
     re.IGNORECASE,
 )
-# iPhone writes documents as "report.pdf • 3 pages document omitted". Only
+# iPhone writes documents as "report.pdf \u2022 3 pages document omitted". Only
 # trusted when the line also carried the invisible mark iPhone adds.
 _MEDIA_MARKED = re.compile(r"^.+ omitted$", re.IGNORECASE)
 
@@ -201,7 +201,7 @@ def parse_chat(text: str, date_order: str = "auto") -> ParseResult:
 
     lines = []
     for raw in text.splitlines():
-        marked = "‎" in raw
+        marked = "\u200e" in raw
         lines.append((_ODD_SPACES.sub(" ", _MARKS.sub("", raw)), marked))
 
     # The style that recognises more lines is the style of the file.

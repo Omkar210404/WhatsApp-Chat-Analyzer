@@ -1,0 +1,13 @@
+# Privacy settings. Both matter, please do not remove them.
+
+[browser]
+# Streamlit sends anonymous usage statistics by default. Turned off so the app
+# makes no outside request at all.
+gatherUsageStats = false
+
+[server]
+# Listen on this machine only, so other devices on the network cannot open the app.
+address = "localhost"
+
+[client]
+toolbarMode = "minimal"

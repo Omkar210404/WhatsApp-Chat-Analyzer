@@ -115,6 +115,8 @@ Install the packages:
 python -m pip install -r requirements.txt
 ```
 
+On Windows, if pip stops with a long path error, clone the project into a folder with a shorter path. One of Streamlit's own files has a very long name.
+
 ## Run
 
 ```bash

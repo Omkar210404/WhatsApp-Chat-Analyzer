@@ -101,6 +101,7 @@ whatsapp-chat-analyzer/
 ├── tests/
 │   ├── conftest.py
 │   ├── test_parser.py
+│   ├── test_text.py
 │   ├── test_analysis.py
 │   ├── test_sample_data.py
 │   ├── test_privacy.py
@@ -109,7 +110,7 @@ whatsapp-chat-analyzer/
 ├── .streamlit/config.toml
 ├── .github/workflows/tests.yml
 ├── requirements.txt              streamlit, pandas, altair, emoji, wordcloud (pinned)
-├── requirements-dev.txt          pytest, playwright (pinned)
+├── requirements-dev.txt          pytest (pinned); Playwright is only needed by the screenshot script
 ├── pytest.ini  .gitignore  .gitattributes  LICENSE  README.md  PLAN.md
 ```
 

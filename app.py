@@ -284,14 +284,14 @@ def show_words(df: pd.DataFrame, top_n: int, custom_stopwords: set[str], want_cl
     with left:
         st.markdown(f"**Top {len(words)} words**")
         if words.empty:
-            st.write("No words to count.")
+            st.caption("No words to count.")
         else:
             st.altair_chart(ranked_bars(words, "word", "count", "Times used"), width="stretch")
             show_table(words)
     with right:
         st.markdown(f"**Top {len(emojis)} emojis**")
         if emojis.empty:
-            st.write("No emojis found.")
+            st.caption("No emojis found.")
         else:
             st.altair_chart(ranked_bars(emojis, "emoji", "count", "Times used", label_size=18), width="stretch")
             show_table(emojis)

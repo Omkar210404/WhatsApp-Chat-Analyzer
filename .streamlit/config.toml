@@ -13,6 +13,11 @@ address = "localhost"
 toolbarMode = "minimal"
 
 [theme]
-# Fixed light theme, so chart colours are the ones that were checked.
-base = "light"
-primaryColor = "#2a78d6"
+# Fixed dark theme. The chart colours in app.py are chosen for this background,
+# so change both together. No web fonts: they would be an outside request.
+base = "dark"
+primaryColor = "#3987e5"
+backgroundColor = "#0d1014"
+secondaryBackgroundColor = "#151a21"
+textColor = "#e6e9ee"
+borderColor = "#262d37"

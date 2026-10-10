@@ -32,11 +32,15 @@ PRIVACY_NOTE = (
     "and never uploaded, logged or saved to disk."
 )
 
-# Chart colours: one blue for every single-series chart, and a light-to-dark
-# ramp of the same blue for the heatmap. Cells with no messages are grey.
-BLUE = "#2a78d6"
-BLUE_RAMP = ["#cde2fb", "#86b6ef", "#3987e5", "#1c5cab", "#0d366b"]
-EMPTY_CELL = "#f0efec"
+# Chart colours for the dark theme set in .streamlit/config.toml: one blue for
+# every single-series chart, and a dark-to-bright ramp of the same blue for the
+# heatmap, so busier cells stand out from the background. Cells with no
+# messages are a neutral grey.
+BACKGROUND = "#0d1014"
+TEXT = "#e6e9ee"
+BLUE = "#3987e5"
+BLUE_RAMP = ["#184f95", "#256abf", "#3987e5", "#86b6ef", "#cde2fb"]
+EMPTY_CELL = "#1c2129"
 
 st.set_page_config(page_title="WhatsApp Chat Analyzer", page_icon=":speech_balloon:", layout="wide")
 
@@ -149,7 +153,7 @@ def ranked_bars(table: pd.DataFrame, label: str, value: str, value_title: str, l
         tooltip=[alt.Tooltip(f"{label}:N"), alt.Tooltip(f"{value}:Q", title=value_title, format=",")],
     )
     bars = base.mark_bar(color=BLUE, cornerRadiusEnd=4)
-    numbers = base.mark_text(align="left", dx=5, fontSize=12).encode(text=alt.Text(f"{value}:Q", format=","))
+    numbers = base.mark_text(align="left", dx=5, fontSize=12, color=TEXT).encode(text=alt.Text(f"{value}:Q", format=","))
     return (bars + numbers).properties(height=max(120, 28 * len(table) + 40))
 
 
@@ -190,7 +194,7 @@ def per_day_chart(table: pd.DataFrame) -> alt.Chart:
 def heatmap_chart(table: pd.DataFrame) -> alt.Chart:
     return (
         alt.Chart(table)
-        .mark_rect(stroke="white", strokeWidth=2, cornerRadius=3)
+        .mark_rect(stroke=BACKGROUND, strokeWidth=2, cornerRadius=3)
         .encode(
             x=alt.X("hour:O", title="Hour of day", axis=alt.Axis(labelAngle=0)),
             y=alt.Y("weekday:O", sort=analysis.WEEKDAYS, title=None),
@@ -232,7 +236,7 @@ def show_activity(df: pd.DataFrame) -> None:
     heatmap = analysis.weekday_hour_heatmap(df)
     st.markdown("**When the chat is busiest: weekday by hour**")
     st.altair_chart(heatmap_chart(heatmap), width="stretch")
-    st.caption("Darker means more messages. Grey cells have none. Times are as written in the export.")
+    st.caption("Brighter means more messages. Grey cells have none. Times are as written in the export.")
     wide = heatmap.pivot(index="weekday", columns="hour", values="messages").reindex(analysis.WEEKDAYS)
     with st.expander("Show the numbers"):
         st.dataframe(wide)
@@ -273,7 +277,7 @@ def word_cloud_image(frequencies: dict[str, int]):
     def blue(word, font_size, position, orientation, random_state, **_):
         return shades[random_state.randint(0, len(shades) - 1)]
 
-    cloud = WordCloud(width=1400, height=560, background_color="white", color_func=blue, random_state=7, max_words=120)
+    cloud = WordCloud(width=1400, height=560, background_color=BACKGROUND, color_func=blue, random_state=7, max_words=120)
     return cloud.generate_from_frequencies(frequencies).to_image()
 
 

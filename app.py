@@ -10,6 +10,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
+import altair as alt
 import pandas as pd
 import streamlit as st
 
@@ -29,6 +30,12 @@ PRIVACY_NOTE = (
     "**Your chat stays on this computer.** The file is read into memory, analysed here "
     "and never uploaded, logged or saved to disk."
 )
+
+# Chart colours: one blue for every single-series chart, and a light-to-dark
+# ramp of the same blue for the heatmap. Cells with no messages are grey.
+BLUE = "#2a78d6"
+BLUE_RAMP = ["#cde2fb", "#86b6ef", "#3987e5", "#1c5cab", "#0d366b"]
+EMPTY_CELL = "#f0efec"
 
 st.set_page_config(page_title="WhatsApp Chat Analyzer", page_icon=":speech_balloon:", layout="wide")
 
@@ -128,6 +135,132 @@ def show_overall(df: pd.DataFrame) -> None:
         )
 
 
+def show_table(table: pd.DataFrame, label: str = "Show the numbers") -> None:
+    with st.expander(label):
+        st.dataframe(table, hide_index=True)
+
+
+def ranked_bars(table: pd.DataFrame, label: str, value: str, value_title: str, label_size: int = 12) -> alt.Chart:
+    """Horizontal bars in the order of the table, each with its number at the end."""
+    base = alt.Chart(table).encode(
+        y=alt.Y(f"{label}:N", sort=None, title=None, axis=alt.Axis(labelFontSize=label_size, labelLimit=240)),
+        x=alt.X(f"{value}:Q", title=value_title, axis=alt.Axis(tickMinStep=1, tickCount=6)),
+        tooltip=[alt.Tooltip(f"{label}:N"), alt.Tooltip(f"{value}:Q", title=value_title, format=",")],
+    )
+    bars = base.mark_bar(color=BLUE, cornerRadiusEnd=4)
+    numbers = base.mark_text(align="left", dx=5, fontSize=12).encode(text=alt.Text(f"{value}:Q", format=","))
+    return (bars + numbers).properties(height=max(120, 28 * len(table) + 40))
+
+
+def column_bars(table: pd.DataFrame, x: alt.X, tooltip_field: str, tooltip_title: str) -> alt.Chart:
+    return (
+        alt.Chart(table)
+        .mark_bar(color=BLUE, cornerRadiusEnd=4)
+        .encode(
+            x=x,
+            y=alt.Y("messages:Q", title="Messages", axis=alt.Axis(tickMinStep=1)),
+            tooltip=[alt.Tooltip(tooltip_field, title=tooltip_title), alt.Tooltip("messages:Q", title="Messages", format=",")],
+        )
+        .properties(height=280)
+    )
+
+
+def per_day_chart(table: pd.DataFrame) -> alt.Chart:
+    nearest = alt.selection_point(nearest=True, on="pointerover", fields=["date"], empty=False)
+    base = alt.Chart(table).encode(
+        x=alt.X("date:T", title=None),
+        y=alt.Y("messages:Q", title="Messages", axis=alt.Axis(tickMinStep=1)),
+    )
+    line = base.mark_line(color=BLUE, strokeWidth=2)
+    hover = (
+        base.mark_point(color=BLUE, filled=True, size=70)
+        .encode(
+            opacity=alt.condition(nearest, alt.value(1), alt.value(0)),
+            tooltip=[
+                alt.Tooltip("date:T", title="Day", format="%a %d %b %Y"),
+                alt.Tooltip("messages:Q", title="Messages", format=","),
+            ],
+        )
+        .add_params(nearest)
+    )
+    return (line + hover).properties(height=280)
+
+
+def heatmap_chart(table: pd.DataFrame) -> alt.Chart:
+    return (
+        alt.Chart(table)
+        .mark_rect(stroke="white", strokeWidth=2, cornerRadius=3)
+        .encode(
+            x=alt.X("hour:O", title="Hour of day", axis=alt.Axis(labelAngle=0)),
+            y=alt.Y("weekday:O", sort=analysis.WEEKDAYS, title=None),
+            color=alt.condition(
+                alt.datum.messages > 0,
+                alt.Color("messages:Q", scale=alt.Scale(range=BLUE_RAMP), legend=alt.Legend(title="Messages")),
+                alt.value(EMPTY_CELL),
+            ),
+            tooltip=[
+                alt.Tooltip("weekday:O", title="Day"),
+                alt.Tooltip("hour:O", title="Hour"),
+                alt.Tooltip("messages:Q", title="Messages", format=","),
+            ],
+        )
+        .properties(height=300)
+    )
+
+
+def show_activity(df: pd.DataFrame) -> None:
+    per_day = analysis.messages_per_day(df)
+    st.markdown("**Messages per day**")
+    st.altair_chart(per_day_chart(per_day), width="stretch")
+    show_table(per_day.assign(date=per_day["date"].dt.date))
+
+    left, right = st.columns(2)
+    with left:
+        per_hour = analysis.messages_per_hour(df)
+        st.markdown("**Messages by hour of day**")
+        hours = alt.X("hour:O", title="Hour of day", axis=alt.Axis(labelAngle=0))
+        st.altair_chart(column_bars(per_hour, hours, "hour:O", "Hour"), width="stretch")
+        show_table(per_hour)
+    with right:
+        per_weekday = analysis.messages_per_weekday(df)
+        st.markdown("**Messages by weekday**")
+        days = alt.X("weekday:O", sort=analysis.WEEKDAYS, title=None, axis=alt.Axis(labelAngle=0))
+        st.altair_chart(column_bars(per_weekday, days, "weekday:O", "Day"), width="stretch")
+        show_table(per_weekday)
+
+    heatmap = analysis.weekday_hour_heatmap(df)
+    st.markdown("**When the chat is busiest: weekday by hour**")
+    st.altair_chart(heatmap_chart(heatmap), width="stretch")
+    st.caption("Darker means more messages. Grey cells have none. Times are as written in the export.")
+    wide = heatmap.pivot(index="weekday", columns="hour", values="messages").reindex(analysis.WEEKDAYS)
+    with st.expander("Show the numbers"):
+        st.dataframe(wide)
+
+
+def show_people(df: pd.DataFrame, filtered: bool) -> None:
+    table = analysis.per_person_stats(df)
+    if filtered:
+        st.caption("This comparison always shows the whole chat, whatever is picked in the sidebar.")
+    st.markdown("**Most active people**")
+    st.altair_chart(ranked_bars(table, "person", "messages", "Messages"), width="stretch")
+    st.markdown("**Per person**")
+    st.dataframe(
+        table,
+        hide_index=True,
+        column_config={
+            "person": "Person",
+            "messages": st.column_config.NumberColumn("Messages", format="localized"),
+            "share_pct": st.column_config.NumberColumn("Share of messages", format="%.1f%%"),
+            "words": st.column_config.NumberColumn("Words", format="localized"),
+            "avg_words": st.column_config.NumberColumn("Words per message", format="%.1f"),
+            "avg_chars": st.column_config.NumberColumn("Characters per message", format="%.1f"),
+            "media": "Media",
+            "links": "Links",
+        },
+    )
+    st.caption("Words and characters per message are averages over text messages, media left out.")
+
+
 def main() -> None:
     st.title("WhatsApp Chat Analyzer")
     st.caption("Statistics for an exported WhatsApp chat, worked out on your own machine.")
@@ -138,6 +271,7 @@ def main() -> None:
         return
     data, filename, is_sample = source
 
+    person_slot = st.sidebar.container()
     with st.sidebar.expander("Options"):
         date_order = DATE_ORDERS[st.selectbox("Date order", list(DATE_ORDERS), key="date_order")]
 
@@ -154,7 +288,7 @@ def main() -> None:
         )
         return
 
-    person = st.sidebar.selectbox(
+    person = person_slot.selectbox(
         "Show", [EVERYONE] + analysis.people(df), key="person", help="The whole chat or one person."
     )
     view = analysis.filter_sender(df, None if person == EVERYONE else person)
@@ -162,6 +296,12 @@ def main() -> None:
     describe_format(info, is_sample)
     st.subheader("Whole chat" if person == EVERYONE else f"Only {person}")
     show_overall(view)
+
+    activity_tab, people_tab = st.tabs(["Activity", "People"])
+    with activity_tab:
+        show_activity(view)
+    with people_tab:
+        show_people(df, filtered=person != EVERYONE)
 
 
 main()

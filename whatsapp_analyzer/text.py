@@ -80,4 +80,6 @@ def tokenize(text: str, stopwords: frozenset[str] | set[str] = frozenset()) -> l
 
 def extract_emojis(text: str) -> list[str]:
     """Every emoji in the text, in order. A skin-toned or joined emoji is one item."""
+    if text.isascii():
+        return []  # no emoji is plain ASCII, and most messages are, so skip the slow scan
     return [found["emoji"] for found in emoji.emoji_list(text)]

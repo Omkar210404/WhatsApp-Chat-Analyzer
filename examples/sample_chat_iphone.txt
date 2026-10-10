@@ -1,0 +1,1810 @@
+[1/5/26, 6:00:00 AM] Hiking Club (synthetic sample): ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[1/5/26, 6:00:00 AM] ‎Mira created group “Hiking Club”
+[1/5/26, 6:00:00 AM] ‎Mira added Bruno
+[1/5/26, 6:00:00 AM] ‎Mira added Chen
+[1/5/26, 6:00:00 AM] ‎Mira added Dalia
+[1/5/26, 6:01:00 AM] Mira: This is a synthetic sample chat made by scripts/generate_sample_chat.py. Every name and every message in it is invented.
+[1/5/26, 6:02:00 AM] ‎Mira changed the subject from “Hiking Club” to “Hiking Club (synthetic sample)”
+[1/5/26, 1:13:44 PM] Dalia: Reminder: we meet at 6:30 at the car park
+[1/5/26, 1:14:52 PM] Bruno: I am in ⛰️
+[1/5/26, 1:18:10 PM] Chen: Thanks!
+[1/5/26, 1:19:20 PM] Mira: ‎image omitted
+[1/5/26, 1:20:02 PM] Chen: I need new boots before Friday evening
+[1/5/26, 1:21:45 PM] Dalia: Who has the map? 🥾
+[1/5/26, 1:23:14 PM] Chen: haha yes
+[1/6/26, 8:02:06 AM] Chen: Who is in for Lantern Peak on Saturday?
+[1/6/26, 8:04:56 AM] Bruno: Bringing bananas for everyone
+[1/6/26, 8:08:37 AM] Dalia: Bringing tea for everyone 😂🧗‍♀️
+[1/6/26, 8:12:00 AM] Mira: ‎GIF omitted
+[1/6/26, 8:15:49 AM] Bruno: ‎sticker omitted
+[1/6/26, 8:18:58 AM] Mira: Who has the map? 😂
+[1/6/26, 8:20:54 AM] Bruno: Packing list for Sunday:
+- sunscreen
+- boots
+
+2 litres of water each
+10/10 would recommend the dumplings
+[1/6/26, 9:51:04 PM] Chen: Weather for Saturday looks good, thinking Windy Saddle 👍
+[1/6/26, 9:53:07 PM] Chen: Works for me
+[1/6/26, 9:54:22 PM] Dalia: Home safe, thanks everyone
+[1/7/26, 8:22:59 AM] Chen: Reminder: we meet at 8:00 at the car park
+[1/7/26, 8:25:26 AM] Bruno: Sounds good ☀️
+[1/7/26, 8:26:12 AM] Dalia: My knee says short loop
+[1/7/26, 8:27:59 AM] Chen: Checking the weather again tomorrow 😂
+[1/7/26, 4:09:50 PM] Bruno: What time are we starting on Sunday? ⛰️
+[1/7/26, 4:11:10 PM] Chen: Bringing coffee for everyone ⛰️
+[1/7/26, 4:12:27 PM] Bruno: I am in 🥾
+[1/7/26, 4:15:42 PM] Dalia: I have a spare boots 🧗‍♀️
+[1/7/26, 4:19:01 PM] Mira: Checking the weather again tomorrow 🔥
+[1/7/26, 4:22:21 PM] Bruno: See you all at 7:00 🌧️
+[1/7/26, 4:24:39 PM] Dalia: Booked the hut, details at https://example.org/huts/fox-hollow
+[1/8/26, 7:18:40 AM] Bruno: Weather for Saturday looks good, thinking Heron Lake 😴
+[1/8/26, 7:20:16 AM] Bruno: Checking the weather again tomorrow
+[1/8/26, 7:23:18 AM] Dalia: Running ten minutes late
+[1/8/26, 7:26:52 AM] Mira: Long loop please
+[1/8/26, 7:29:46 AM] Mira: Sounds good
+[1/8/26, 7:30:54 AM] Chen: My knee says short loop 😂🥾
+[1/8/26, 7:33:12 AM] Mira: Great idea 🥾👍🏽
+[1/8/26, 7:37:07 AM] Bruno: Not sure yet, will confirm tonight ⛰️
+[1/8/26, 7:40:28 AM] Mira: Count me in
+[1/8/26, 1:14:38 PM] Bruno: Forecast says rain on Sunday, should we move the hike? 🙌
+[1/8/26, 1:15:12 PM] Bruno: I have a spare map ‎<This message was edited>
+[1/8/26, 1:16:49 PM] Chen: ok
+[1/8/26, 1:18:23 PM] Bruno: 👍
+[1/8/26, 1:21:00 PM] Mira: Who has the map? 😂
+[1/8/26, 1:24:06 PM] Chen: Sounds good
+[1/8/26, 1:27:55 PM] Mira: ‎image omitted
+[1/8/26, 1:28:42 PM] Chen: I have a spare first aid kit
+[1/8/26, 5:34:15 PM] Mira: My legs are still sore from Heron Lake
+[1/8/26, 5:35:44 PM] Dalia: The view from the top is worth it
+[1/8/26, 5:39:23 PM] Bruno: Who has the map?
+[1/8/26, 5:41:27 PM] Dalia: Can we start at 7:00 instead?
+[1/8/26, 5:42:31 PM] Mira: Great idea
+[1/8/26, 5:45:15 PM] Chen: Works for me
+[1/8/26, 5:48:32 PM] Dalia: ok
+[1/9/26, 6:20:35 PM] Bruno: I can drive on Saturday, three seats free
+[1/9/26, 6:22:00 PM] Dalia: That climb was brutal last time
+[1/9/26, 6:25:16 PM] Bruno: Bringing dumplings for everyone
+[1/9/26, 6:26:44 PM] Bruno: Works for me
+[1/9/26, 6:30:07 PM] Mira: Great idea
+[1/9/26, 6:33:07 PM] Dalia: Running ten minutes late
+[1/9/26, 6:36:28 PM] Mira: I am in
+[1/9/26, 6:51:59 PM] Chen: Is the Windy Saddle trail open after the storm? ⛰️
+[1/9/26, 6:54:30 PM] Mira: Agreed, Heron Lake it is
+[1/9/26, 6:56:23 PM] Bruno: Best hike so far 🥾
+[1/9/26, 7:00:11 PM] Bruno: Route is here: https://example.com/trails/lantern-peak
+[1/9/26, 9:27:07 PM] Bruno: My legs are still sore from Fox Hollow
+[1/9/26, 9:29:19 PM] Dalia: That climb was brutal last time ☀️
+[1/9/26, 9:30:11 PM] Bruno: Who has the map? 😅😅
+[1/9/26, 9:33:30 PM] Chen: Thanks!
+[1/9/26, 9:35:30 PM] Bruno: Can we start at 8:00 instead?
+[1/9/26, 9:37:13 PM] Mira: Next time we go to Windy Saddle
+[1/9/26, 9:37:54 PM] Chen: Let us keep it easy this week 👍🏽
+[1/9/26, 9:38:51 PM] Mira: Long loop please ❤️
+[1/9/26, 10:59:40 PM] Mira: Can someone bring a spare map? 😂
+[1/9/26, 11:02:28 PM] Dalia: Agreed, Fox Hollow it is
+[1/9/26, 11:04:17 PM] Bruno: Same plan as last week then
+[1/9/26, 11:06:38 PM] Dalia: Agreed, Pine Ridge it is
+[1/10/26, 9:17:18 AM] Bruno: Can someone bring a spare map? 👍
+[1/10/26, 9:18:31 AM] Chen: Booked the hut, details at https://example.org/huts/pine-ridge
+[1/10/26, 2:29:05 PM] Mira: What time are we starting on Saturday? 👍
+[1/10/26, 2:32:55 PM] Bruno: ok
+[1/10/26, 2:33:41 PM] Dalia: Same plan as last week then
+[1/10/26, 2:36:50 PM] Mira: Home safe, thanks everyone 😂🌧️
+[1/10/26, 2:37:13 PM] Chen: Checking the weather again tomorrow
+[1/10/26, 2:37:57 PM] Bruno: Count me in
+[1/10/26, 2:40:48 PM] Dalia: ‎image omitted
+[1/10/26, 2:43:22 PM] Mira: Bringing tea for everyone 🙌
+[1/10/26, 2:46:31 PM] Chen: Let us keep it easy this week
+[1/10/26, 6:55:33 PM] Chen: Photos from Pine Ridge are amazing
+[1/10/26, 6:57:01 PM] Bruno: ‎sticker omitted
+[1/10/26, 6:57:37 PM] Dalia: Long loop please
+[1/10/26, 6:59:08 PM] Bruno: ‎This message was deleted.
+[1/10/26, 6:59:41 PM] Mira: I need new boots before Sunday
+[1/10/26, 7:01:23 PM] Bruno: My knee says short loop
+[1/10/26, 7:05:03 PM] Dalia: My knee says short loop
+[1/10/26, 7:15:45 PM] Bruno: Should we do the long loop or the short one?
+[1/10/26, 7:19:40 PM] Bruno: Perfect
+[1/10/26, 7:22:26 PM] Mira: I can pick up two people on the way 😴
+[1/10/26, 7:58:15 PM] Chen: Is the Mossy Creek trail open after the storm?
+[1/10/26, 7:59:13 PM] Bruno: Bringing sandwiches for everyone ⛰️
+[1/10/26, 8:48:40 PM] Chen: My legs are still sore from Mossy Creek
+[1/10/26, 8:50:47 PM] Mira: Packing list for Sunday:
+- boots
+- map
+
+2 litres of water each
+10/10 would recommend the sandwiches
+[1/10/26, 8:52:21 PM] Chen: Plan for Sunday:
+Meet: 9:00 at the car park
+Route: Pine Ridge - long loop
+Food: coffee
+[1/10/26, 8:54:11 PM] Mira: That climb was brutal last time
+[1/10/26, 8:58:00 PM] Dalia: That climb was brutal last time 🌧️
+[1/10/26, 8:58:42 PM] Dalia: Next time we go to Fox Hollow
+[1/10/26, 8:59:07 PM] Mira: Do not forget your headlamp
+[1/10/26, 9:00:30 PM] Chen: Not sure yet, will confirm tonight
+[1/10/26, 9:50:58 PM] Bruno: Who is in for Windy Saddle on Sunday?
+[1/10/26, 9:51:19 PM] Dalia: I can pick up two people on the way
+[1/10/26, 9:54:18 PM] Chen: Sounds good
+[1/10/26, 9:55:38 PM] Mira: That climb was brutal last time 😂
+[1/10/26, 9:56:54 PM] Mira: I will bring sandwiches
+[1/10/26, 9:57:18 PM] Dalia: My knee says short loop
+[1/10/26, 10:00:41 PM] Mira: Do not forget your sunscreen 👍🏽👍🏽
+[1/10/26, 10:02:18 PM] Chen: Running ten minutes late 😅
+[1/10/26, 10:04:49 PM] Mira: I can drive on Saturday, three seats free
+[1/10/26, 10:07:54 PM] Dalia: ok 🔥
+[1/11/26, 8:07:09 AM] Mira: I found a new route near Windy Saddle, about 12 km 😂
+[1/11/26, 8:09:20 AM] Dalia: ‎This message was deleted.
+[1/11/26, 8:12:05 AM] Chen: Almost there
+[1/11/26, 12:42:19 PM] Dalia: Forecast says rain on Saturday, should we move the hike?
+[1/11/26, 12:43:43 PM] Mira: I need new boots before Saturday
+[1/11/26, 12:46:19 PM] Bruno: Same plan as last week then ‎<This message was edited>
+[1/11/26, 12:48:40 PM] Dalia: haha yes
+[1/11/26, 6:52:43 PM] Bruno: My legs are still sore from Fox Hollow
+[1/11/26, 6:55:33 PM] Mira: Train or car?
+[1/11/26, 6:56:23 PM] Bruno: Long loop please 😂
+[1/11/26, 6:59:19 PM] Mira: I need new boots before Saturday 👍
+[1/11/26, 7:02:30 PM] Bruno: My knee says short loop 😴⛰️
+[1/11/26, 7:03:23 PM] Chen: See you all at 6:30
+[1/11/26, 7:05:39 PM] Mira: 🧗‍♀️🧗‍♀️
+[1/11/26, 7:07:17 PM] Chen: Bringing trail mix for everyone
+[1/11/26, 7:29:37 PM] Dalia: I can drive on Saturday, three seats free ☀️
+[1/11/26, 7:32:35 PM] Chen: Thanks! ⛰️
+[1/11/26, 7:35:10 PM] Mira: Can we start at 8:00 instead?
+[1/11/26, 7:35:35 PM] Dalia: ok
+[1/11/26, 7:43:56 PM] Mira: Anyone free for a short hike on Saturday?
+[1/11/26, 7:47:29 PM] Bruno: Booked the hut, details at https://example.org/huts/fox-hollow
+[1/11/26, 7:49:32 PM] Mira: Route is here: https://example.com/trails/lantern-peak
+[1/11/26, 7:52:39 PM] Dalia: Running ten minutes late 😂
+[1/11/26, 7:56:29 PM] Mira: I am in
+[1/11/26, 7:59:24 PM] Mira: The view from the top is worth it
+[1/11/26, 8:01:28 PM] Bruno: I have a spare first aid kit ☀️👍🏽
+[1/11/26, 8:03:54 PM] Mira: Perfect
+[1/11/26, 8:05:54 PM] Bruno: Trail was muddy but fun 😴
+[1/11/26, 8:57:08 PM] Chen: Who is in for Heron Lake on Saturday?
+[1/11/26, 8:58:50 PM] Bruno: Train or car?
+[1/11/26, 9:00:07 PM] Dalia: haha yes 🙌
+[1/11/26, 9:01:43 PM] Mira: Best hike so far 🥾❤️
+[1/11/26, 9:04:05 PM] Bruno: Who has the map?
+[1/11/26, 9:04:41 PM] Dalia: Let us keep it easy this week
+[1/13/26, 6:58:56 PM] Chen: Reminder: we meet at 7:30 at the car park
+[1/13/26, 7:02:14 PM] Dalia: ok
+[1/13/26, 7:05:14 PM] Mira: Same plan as last week then
+[1/13/26, 7:06:47 PM] Dalia: ‎GIF omitted
+[1/13/26, 7:10:39 PM] Mira: Great idea
+[1/13/26, 7:12:18 PM] Bruno: Works for me
+[1/13/26, 7:13:10 PM] Mira: My knee says short loop
+[1/13/26, 8:58:38 PM] Dalia: Should we do the long loop or the short one?
+[1/13/26, 8:59:37 PM] Bruno: Trail was muddy but fun
+[1/13/26, 9:00:51 PM] Mira: haha yes 🥾⛰️
+[1/13/26, 9:03:46 PM] Chen: Do not forget your first aid kit
+[1/13/26, 9:06:18 PM] Mira: Can we start at 6:30 instead?
+[1/13/26, 9:57:38 PM] Mira: Anyone free for a short hike on Friday evening? 🔥
+[1/13/26, 10:00:25 PM] Chen: Almost there
+[1/13/26, 10:02:31 PM] Bruno: ‎video omitted
+[1/13/26, 10:02:53 PM] Mira: I am in 🥾
+[1/13/26, 10:04:12 PM] Bruno: I can pick up two people on the way
+[1/14/26, 8:00:10 AM] Bruno: My legs are still sore from Windy Saddle
+[1/14/26, 8:02:15 AM] Mira: ‎GIF omitted
+[1/14/26, 8:05:53 AM] Bruno: ‎GIF omitted
+[1/14/26, 8:07:22 AM] Dalia: Next time we go to Heron Lake
+[1/14/26, 8:08:55 AM] Chen: Cars for Friday evening:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[1/14/26, 8:42:47 PM] Dalia: Reminder: we meet at 7:30 at the car park
+[1/14/26, 8:45:05 PM] Chen: Booked the hut, details at https://example.org/huts/mossy-creek
+[1/14/26, 8:57:23 PM] Mira: Planning thread for Friday evening: route, cars, food 🌧️
+[1/14/26, 9:00:20 PM] Mira: Bringing bananas for everyone 🥾👍
+[1/14/26, 9:02:10 PM] Bruno: Trail report says it is open: https://example.com/reports/fox-hollow
+[1/14/26, 9:05:50 PM] Dalia: Can we start at 7:30 instead?
+[1/14/26, 9:06:26 PM] Mira: Long loop please
+[1/14/26, 9:07:58 PM] Chen: Thanks!
+[1/14/26, 9:10:51 PM] Bruno: Do not forget your first aid kit
+[1/14/26, 9:13:12 PM] Dalia: Agreed, Lantern Peak it is
+[1/15/26, 9:18:10 AM] Bruno: Weather for Saturday looks good, thinking Lantern Peak
+[1/15/26, 9:20:18 AM] Mira: Let us keep it easy this week
+[1/15/26, 9:23:09 AM] Bruno: Too early for me 👍
+[1/15/26, 9:25:30 AM] Mira: Booked the hut, details at https://example.org/huts/heron-lake
+[1/15/26, 9:29:28 AM] Chen: The view from the top is worth it
+[1/15/26, 9:32:47 AM] Bruno: Agreed, Mossy Creek it is
+[1/15/26, 9:35:06 AM] Mira: The view from the top is worth it
+[1/15/26, 6:00:15 PM] Bruno: Photos from Lantern Peak are amazing ⛰️
+[1/15/26, 6:04:07 PM] Mira: Not sure yet, will confirm tonight
+[1/15/26, 6:05:33 PM] Chen: Booked the hut, details at https://example.org/huts/mossy-creek
+[1/15/26, 6:06:28 PM] Bruno: Do not forget your rain jacket ☀️
+[1/15/26, 6:07:33 PM] Chen: Sounds good
+[1/15/26, 6:10:14 PM] Bruno: My knee says short loop
+[1/15/26, 6:20:40 PM] Mira: Can someone bring a spare first aid kit?
+[1/15/26, 6:21:29 PM] Chen: ‎This message was deleted.
+[1/15/26, 9:07:51 PM] Chen: Is the Heron Lake trail open after the storm?
+[1/15/26, 9:11:25 PM] Mira: That climb was brutal last time
+[1/15/26, 9:13:26 PM] Chen: Sounds good
+[1/16/26, 8:45:35 AM] Dalia: Weather for Saturday looks good, thinking Fox Hollow
+[1/16/26, 8:49:02 AM] Chen: Perfect
+[1/16/26, 8:51:12 AM] Bruno: Thanks!
+[1/16/26, 8:55:02 AM] Chen: ‎image omitted
+[1/16/26, 8:56:19 AM] Mira: ‎sticker omitted
+[1/16/26, 12:33:18 PM] Bruno: Can someone bring a spare rain jacket?
+[1/16/26, 12:34:29 PM] Mira: Home safe, thanks everyone
+[1/16/26, 12:36:37 PM] Dalia: Works for me ⛰️❤️
+[1/16/26, 12:39:02 PM] Bruno: Do not forget your headlamp ⛰️
+[1/16/26, 12:41:31 PM] Mira: 👍👍
+[1/16/26, 12:43:49 PM] Dalia: The view from the top is worth it 🔥
+[1/16/26, 1:22:54 PM] Bruno: What time are we starting on Sunday? 🙌🙌
+[1/16/26, 1:26:14 PM] Dalia: Not sure yet, will confirm tonight 😅
+[1/16/26, 1:30:13 PM] Mira: I am in
+[1/16/26, 4:30:40 PM] Dalia: Reminder: we meet at 7:30 at the car park ❤️
+[1/16/26, 4:31:28 PM] Chen: Bringing sandwiches for everyone
+[1/16/26, 4:32:16 PM] Dalia: Checking the weather again tomorrow 🙌🥾
+[1/16/26, 4:33:37 PM] Mira: Do not forget your water bottle 🔥
+[1/16/26, 7:30:24 PM] Mira: Photos from Fox Hollow are amazing
+[1/16/26, 7:33:04 PM] Chen: Sounds good
+[1/16/26, 7:34:32 PM] Chen: Trail report says it is open: https://example.com/reports/heron-lake
+[1/16/26, 7:35:28 PM] Mira: That climb was brutal last time
+[1/16/26, 7:36:05 PM] Bruno: Too early for me 👍🏽🔥
+[1/16/26, 7:38:09 PM] Mira: Home safe, thanks everyone
+[1/16/26, 7:38:46 PM] Bruno: Best hike so far 🔥
+[1/17/26, 8:20:32 AM] Bruno: I can drive on Saturday, three seats free
+[1/17/26, 8:21:09 AM] Dalia: Too early for me 😴
+[1/17/26, 8:21:56 AM] Bruno: Let us keep it easy this week 😂
+[1/17/26, 8:23:17 AM] Dalia: Long loop please
+[1/17/26, 8:25:41 AM] Mira: Perfect 🥾
+[1/17/26, 8:26:09 AM] Dalia: Do not forget your map 👍
+[1/17/26, 8:29:41 AM] Mira: Let us keep it easy this week
+[1/17/26, 8:32:48 AM] Dalia: Perfect 🥾
+[1/17/26, 8:34:03 AM] Bruno: Agreed, Fox Hollow it is
+[1/17/26, 4:56:23 PM] Mira: Anyone free for a short hike on Friday evening?
+[1/17/26, 5:00:08 PM] Chen: My knee says short loop
+[1/17/26, 8:21:32 PM] Dalia: Reminder: we meet at 9:00 at the car park
+[1/17/26, 8:23:49 PM] Chen: Thanks!
+[1/17/26, 8:27:16 PM] Bruno: Almost there
+[1/17/26, 8:29:40 PM] Mira: Home safe, thanks everyone ‎<This message was edited>
+[1/17/26, 8:33:22 PM] Mira: haha yes
+[1/17/26, 8:34:11 PM] Mira: Is the Windy Saddle trail open after the storm? ⛰️😂
+[1/17/26, 8:35:20 PM] Dalia: Should we do the long loop or the short one?
+[1/17/26, 8:36:08 PM] Chen: Can we start at 9:00 instead? 😴
+[1/17/26, 8:36:17 PM] Mira: Photos from Windy Saddle are amazing
+[1/17/26, 8:36:32 PM] Bruno: Who has the map?
+[1/17/26, 8:37:29 PM] Chen: 🙌🙌
+[1/17/26, 8:38:08 PM] Bruno: The view from the top is worth it
+[1/17/26, 8:39:05 PM] Mira: Works for me 👍🏽
+[1/17/26, 8:39:55 PM] Chen: Long loop please
+[1/17/26, 8:40:30 PM] Bruno: haha yes ⛰️
+[1/17/26, 8:41:12 PM] Mira: Thanks!
+[1/17/26, 8:41:56 PM] Mira: Too early for me 👍
+[1/17/26, 8:43:57 PM] Chen: Too early for me 😅
+[1/17/26, 8:44:15 PM] Chen: ‎GIF omitted
+[1/17/26, 8:44:36 PM] Bruno: I can pick up two people on the way
+[1/17/26, 8:45:38 PM] Chen: Do not forget your headlamp
+[1/17/26, 8:47:01 PM] Mira: Let us keep it easy this week
+[1/17/26, 8:48:46 PM] Dalia: Bringing trail mix for everyone
+[1/17/26, 9:35:20 PM] Dalia: What time are we starting on Saturday?
+[1/17/26, 9:38:09 PM] Mira: I am in 😂
+[1/17/26, 9:42:02 PM] Chen: Train or car? 👍🏽
+[1/17/26, 10:01:36 PM] Dalia: My legs are still sore from Windy Saddle
+[1/17/26, 10:02:15 PM] Chen: Best hike so far 😂
+[1/17/26, 10:05:50 PM] Bruno: Who has the map? 🔥
+[1/17/26, 10:09:40 PM] Mira: 😂😂😂
+[1/17/26, 10:12:00 PM] Dalia: Trail report says it is open: https://example.com/reports/mossy-creek
+[1/17/26, 10:12:54 PM] Mira: I will bring trail mix ☀️
+[1/17/26, 10:14:33 PM] Bruno: Same plan as last week then
+[1/17/26, 10:16:20 PM] Chen: Trail report says it is open: https://example.com/reports/fox-hollow
+[1/17/26, 10:17:29 PM] Mira: ‎sticker omitted
+[1/18/26, 12:55:23 PM] Chen: Weather for Friday evening looks good, thinking Lantern Peak
+[1/18/26, 12:59:14 PM] Mira: Perfect ☀️
+[1/18/26, 1:00:59 PM] Bruno: Too early for me
+[1/18/26, 1:01:48 PM] Chen: The view from the top is worth it
+[1/18/26, 1:03:24 PM] Dalia: ok
+[1/18/26, 5:21:01 PM] Dalia: Weather for Saturday looks good, thinking Windy Saddle
+[1/18/26, 5:23:50 PM] Chen: Who has the map?
+[1/18/26, 5:25:26 PM] Bruno: Who has the map?
+[1/18/26, 5:27:34 PM] Mira: Count me in
+[1/18/26, 5:29:32 PM] Bruno: Works for me
+[1/18/26, 5:30:37 PM] Chen: I need new boots before Saturday
+[1/18/26, 5:31:22 PM] Mira: Almost there 🙌
+[1/18/26, 8:50:17 PM] Chen: Who is in for Pine Ridge on Sunday? 🔥
+[1/18/26, 8:51:42 PM] Mira: Works for me
+[1/18/26, 8:53:05 PM] Chen: Train or car?
+[1/18/26, 8:56:37 PM] Dalia: Bringing bananas for everyone 🙌🥾
+[1/18/26, 8:58:20 PM] Bruno: Not sure yet, will confirm tonight
+[1/18/26, 9:02:06 PM] Chen: My knee says short loop
+[1/18/26, 9:04:24 PM] Mira: I have a spare headlamp
+[1/18/26, 9:04:45 PM] Chen: Best hike so far
+[1/19/26, 9:43:52 AM] Bruno: My legs are still sore from Fox Hollow 🔥⛰️
+[1/19/26, 9:44:16 AM] Mira: I can pick up two people on the way
+[1/19/26, 9:45:25 AM] Chen: The view from the top is worth it
+[1/19/26, 9:46:21 AM] Bruno: I will bring bananas 👍😂
+[1/19/26, 9:47:26 AM] Dalia: Great idea
+[1/19/26, 6:23:39 PM] Bruno: Reminder: we meet at 6:30 at the car park
+[1/19/26, 6:26:40 PM] Dalia: Who has the map?
+[1/19/26, 6:28:15 PM] Bruno: Too early for me
+[1/19/26, 6:32:01 PM] Dalia: Who has the map? 🌧️🌧️
+[1/19/26, 6:33:31 PM] Bruno: The view from the top is worth it 🥾
+[1/19/26, 9:22:48 PM] Mira: Anyone free for a short hike on Sunday? 🙌
+[1/19/26, 9:26:19 PM] Bruno: Trail report says it is open: https://example.com/reports/heron-lake
+[1/19/26, 9:27:12 PM] Mira: Route is here: https://example.com/trails/heron-lake
+[1/19/26, 9:29:51 PM] Bruno: ‎sticker omitted
+[1/19/26, 9:32:09 PM] Chen: Next time we go to Mossy Creek
+[1/20/26, 6:00:00 AM] ‎Mira added Tomasz
+[1/20/26, 8:21:39 PM] Bruno: Should we do the long loop or the short one?
+[1/20/26, 8:22:29 PM] Mira: ‎video omitted
+[1/20/26, 8:23:35 PM] Bruno: Not sure yet, will confirm tonight 🔥⛰️
+[1/20/26, 8:24:30 PM] Chen: ‎video omitted
+[1/20/26, 8:25:02 PM] Mira: 😴😴
+[1/20/26, 8:27:26 PM] Chen: That climb was brutal last time
+[1/20/26, 8:30:47 PM] Mira: That climb was brutal last time 🥾
+[1/20/26, 8:32:39 PM] Mira: Long loop please
+[1/21/26, 7:22:02 PM] Mira: I can drive on Sunday, three seats free 👍
+[1/21/26, 7:25:31 PM] Dalia: I will bring dumplings
+[1/21/26, 7:27:11 PM] Mira: Do not forget your water bottle
+[1/21/26, 7:29:17 PM] Bruno: Do not forget your headlamp
+[1/21/26, 7:31:42 PM] Tomasz: Photos from Lantern Peak are amazing
+[1/21/26, 7:32:11 PM] Mira: I can pick up two people on the way ⛰️🧗‍♀️
+[1/21/26, 7:32:45 PM] Mira: ‎image omitted
+[1/21/26, 7:33:55 PM] Mira: ⛰️
+[1/21/26, 7:34:15 PM] Tomasz: I need new boots before Saturday ❤️
+[1/21/26, 7:38:07 PM] Mira: I will bring sandwiches 😴
+[1/21/26, 7:41:40 PM] Dalia: Agreed, Windy Saddle it is
+[1/21/26, 7:42:06 PM] Mira: ‎video omitted
+[1/21/26, 8:13:18 PM] Bruno: I can drive on Sunday, three seats free
+[1/21/26, 8:14:56 PM] Dalia: ok 🥾
+[1/21/26, 8:15:50 PM] Mira: Same plan as last week then
+[1/21/26, 8:19:47 PM] Dalia: Too early for me
+[1/21/26, 8:22:06 PM] Bruno: Agreed, Fox Hollow it is ☀️
+[1/21/26, 8:23:23 PM] Mira: Long loop please 🥾☀️
+[1/21/26, 8:24:05 PM] Mira: Train or car?
+[1/21/26, 8:26:19 PM] Chen: The view from the top is worth it
+[1/21/26, 8:28:18 PM] Bruno: Who has the map? ☀️
+[1/22/26, 12:17:38 PM] Mira: Anyone free for a short hike on Saturday?
+[1/22/26, 12:20:38 PM] Mira: Checking the weather again tomorrow
+[1/22/26, 12:21:10 PM] Dalia: ‎image omitted
+[1/22/26, 12:22:12 PM] Dalia: Not sure yet, will confirm tonight
+[1/22/26, 12:24:27 PM] Tomasz: Same plan as last week then 🌧️🔥
+[1/22/26, 12:25:35 PM] Mira: Checking the weather again tomorrow
+[1/22/26, 4:05:09 PM] Chen: Planning thread for Saturday: route, cars, food 😴
+[1/22/26, 4:08:16 PM] Dalia: I will bring coffee 🙌🥾
+[1/22/26, 6:44:53 PM] Mira: Anyone free for a short hike on Saturday? 🥾
+[1/22/26, 6:46:23 PM] Mira: That climb was brutal last time ⛰️
+[1/22/26, 6:50:10 PM] Chen: Route is here: https://example.com/trails/pine-ridge
+[1/22/26, 6:53:19 PM] Mira: Can we start at 7:00 instead? 🔥🌧️
+[1/22/26, 6:54:50 PM] Bruno: Perfect
+[1/22/26, 7:38:18 PM] Bruno: Can someone bring a spare headlamp?
+[1/22/26, 7:40:21 PM] Mira: ok
+[1/22/26, 7:42:44 PM] Bruno: 😅😅
+[1/22/26, 7:44:27 PM] Mira: Do not forget your map
+[1/23/26, 1:18:13 PM] Mira: What time are we starting on Saturday?
+[1/23/26, 1:19:03 PM] Bruno: Do not forget your boots
+[1/23/26, 1:21:36 PM] Tomasz: Can someone bring a spare boots?
+[1/23/26, 1:22:25 PM] Chen: Best hike so far
+[1/23/26, 1:23:17 PM] Chen: That climb was brutal last time
+[1/23/26, 1:25:45 PM] Bruno: Home safe, thanks everyone
+[1/23/26, 1:28:04 PM] Mira: I have a spare trekking poles 😂
+[1/23/26, 1:28:42 PM] Chen: ‎image omitted
+[1/23/26, 1:29:20 PM] Bruno: Not sure yet, will confirm tonight
+[1/23/26, 1:29:55 PM] Dalia: haha yes 😂
+[1/23/26, 6:08:02 PM] Mira: Is the Windy Saddle trail open after the storm?
+[1/23/26, 6:08:25 PM] Chen: Weather link https://example.org/forecast/pine-ridge
+[1/23/26, 6:10:31 PM] Mira: I am in
+[1/23/26, 6:13:15 PM] Bruno: Almost there
+[1/23/26, 6:13:57 PM] Mira: Perfect
+[1/23/26, 6:15:43 PM] Bruno: Long loop please
+[1/23/26, 6:16:09 PM] Mira: ‎This message was deleted.
+[1/23/26, 6:19:47 PM] Chen: Weather link https://example.org/forecast/windy-saddle
+[1/23/26, 7:14:37 PM] Chen: Weather for Saturday looks good, thinking Mossy Creek 👍
+[1/23/26, 7:15:31 PM] Tomasz: I need new boots before Sunday
+[1/23/26, 7:17:55 PM] Mira: haha yes
+[1/23/26, 9:19:32 PM] Mira: I can drive on Sunday, three seats free
+[1/23/26, 9:20:24 PM] Tomasz: Checking the weather again tomorrow
+[1/23/26, 9:22:15 PM] Bruno: haha yes
+[1/23/26, 9:33:04 PM] Mira: Reminder: we meet at 6:30 at the car park
+[1/23/26, 9:34:16 PM] Chen: Perfect
+[1/23/26, 9:36:31 PM] Mira: Not sure yet, will confirm tonight
+[1/24/26, 8:08:39 AM] Dalia: I can drive on Saturday, three seats free
+[1/24/26, 8:11:31 AM] Chen: I will bring bananas
+[1/24/26, 12:41:21 PM] Bruno: Photos from Heron Lake are amazing 😅😂
+[1/24/26, 12:43:12 PM] Chen: Next time we go to Pine Ridge
+[1/24/26, 12:45:01 PM] Mira: Train or car?
+[1/24/26, 12:47:00 PM] Dalia: ‎GIF omitted
+[1/24/26, 12:49:14 PM] Bruno: Who has the map?
+[1/24/26, 12:51:07 PM] Chen: ‎video omitted
+[1/24/26, 12:51:58 PM] Dalia: Trail was muddy but fun
+[1/24/26, 2:32:12 PM] Dalia: I found a new route near Windy Saddle, about 12 km
+[1/24/26, 2:33:58 PM] Chen: Next time we go to Heron Lake
+[1/24/26, 2:35:05 PM] Mira: Booked the hut, details at https://example.org/huts/heron-lake
+[1/24/26, 2:36:07 PM] Tomasz: Perfect 😅
+[1/24/26, 2:38:22 PM] Mira: Agreed, Mossy Creek it is
+[1/24/26, 2:39:50 PM] Dalia: I will bring bananas 🌧️
+[1/24/26, 2:41:27 PM] Mira: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[1/24/26, 7:17:08 PM] Mira: My legs are still sore from Heron Lake
+[1/24/26, 7:20:00 PM] Tomasz: The view from the top is worth it
+[1/24/26, 7:22:39 PM] Bruno: ☀️☀️☀️
+[1/24/26, 7:26:35 PM] Mira: ‎video omitted
+[1/24/26, 7:27:21 PM] Dalia: Thanks! ❤️
+[1/24/26, 7:28:52 PM] Mira: Checking the weather again tomorrow
+[1/24/26, 7:32:08 PM] Chen: Long loop please
+[1/24/26, 8:12:27 PM] Chen: I can drive on Saturday, three seats free
+[1/24/26, 8:15:41 PM] Bruno: Train or car?
+[1/24/26, 8:18:38 PM] Mira: Let us keep it easy this week
+[1/24/26, 8:20:58 PM] Dalia: My knee says short loop
+[1/25/26, 9:03:25 AM] Chen: I can drive on Sunday, three seats free
+[1/25/26, 9:07:20 AM] Bruno: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[1/25/26, 9:08:31 AM] Mira: Long loop please
+[1/25/26, 10:59:40 AM] Mira: Is the Lantern Peak trail open after the storm?
+[1/25/26, 11:02:54 AM] Chen: I will bring tea
+[1/25/26, 11:04:06 AM] Bruno: Who has the map?
+[1/25/26, 4:27:10 PM] Chen: Weather for Sunday looks good, thinking Heron Lake
+[1/25/26, 4:29:01 PM] Bruno: Train or car?
+[1/25/26, 4:31:47 PM] Mira: My knee says short loop
+[1/25/26, 4:32:31 PM] Dalia: Train or car? ‎<This message was edited>
+[1/25/26, 4:33:23 PM] Mira: Train or car?
+[1/25/26, 4:35:19 PM] Tomasz: Works for me
+[1/25/26, 4:38:14 PM] Dalia: Home safe, thanks everyone
+[1/25/26, 4:41:00 PM] Bruno: 😂😂😂
+[1/25/26, 7:12:44 PM] Chen: Weather for Sunday looks good, thinking Fox Hollow
+[1/25/26, 7:15:39 PM] Bruno: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[1/25/26, 7:16:08 PM] Dalia: ok
+[1/25/26, 7:19:18 PM] Chen: My knee says short loop ‎<This message was edited>
+[1/25/26, 11:59:46 PM] Mira: Weather for Friday evening looks good, thinking Lantern Peak
+[1/26/26, 12:00:17 AM] Bruno: Great idea ⛰️
+[1/26/26, 12:03:17 AM] Mira: Can we start at 8:00 instead?
+[1/26/26, 12:04:38 AM] Mira: I am in 🙌
+[1/26/26, 12:08:08 AM] Bruno: Route is here: https://example.com/trails/windy-saddle
+[1/26/26, 12:16:11 PM] Mira: What time are we starting on Saturday? 🌧️
+[1/26/26, 12:18:36 PM] Tomasz: Agreed, Fox Hollow it is
+[1/26/26, 2:09:04 PM] Bruno: Who is in for Windy Saddle on Saturday? 👍😅
+[1/26/26, 2:10:12 PM] Chen: Trail was muddy but fun 🌧️
+[1/26/26, 2:11:30 PM] Dalia: Perfect ‎<This message was edited>
+[1/26/26, 2:15:20 PM] Bruno: haha yes
+[1/26/26, 2:15:57 PM] Chen: I will bring dumplings
+[1/26/26, 2:18:36 PM] Mira: 🙌🙌
+[1/26/26, 2:20:44 PM] Bruno: Perfect 🥾
+[1/26/26, 2:22:45 PM] Chen: Can we start at 6:30 instead?
+[1/27/26, 8:18:47 AM] Mira: I can drive on Sunday, three seats free
+[1/27/26, 8:22:44 AM] Chen: Thanks!
+[1/27/26, 8:23:35 AM] Bruno: Who has the map? ‎<This message was edited>
+[1/27/26, 8:25:42 AM] Mira: ⛰️⛰️
+[1/27/26, 8:29:18 AM] Bruno: See you all at 7:30
+[1/28/26, 7:46:20 PM] Mira: My legs are still sore from Pine Ridge
+[1/28/26, 7:47:41 PM] Dalia: ok
+[1/28/26, 7:47:47 PM] Dalia: Who is in for Windy Saddle on Friday evening?
+[1/28/26, 7:48:45 PM] Bruno: ‎sticker omitted
+[1/28/26, 8:02:44 PM] Mira: Can someone bring a spare map?
+[1/28/26, 8:04:15 PM] Dalia: Works for me
+[1/28/26, 8:08:00 PM] Bruno: Not sure yet, will confirm tonight 🥾
+[1/28/26, 8:08:57 PM] Dalia: See you all at 9:00
+[1/28/26, 8:12:57 PM] Chen: That climb was brutal last time
+[1/28/26, 8:15:23 PM] Mira: Count me in
+[1/28/26, 8:16:36 PM] Bruno: ‎sticker omitted
+[1/28/26, 8:20:25 PM] Mira: Bringing dumplings for everyone 👍
+[1/28/26, 8:22:14 PM] Dalia: Great idea
+[1/28/26, 11:14:06 PM] Tomasz: Planning thread for Sunday: route, cars, food ⛰️
+[1/28/26, 11:16:13 PM] Bruno: Cars for Sunday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[1/28/26, 11:19:31 PM] Tomasz: ‎GIF omitted
+[1/28/26, 11:21:32 PM] Mira: The view from the top is worth it
+[1/28/26, 11:22:56 PM] Tomasz: Not sure yet, will confirm tonight 😴
+[1/29/26, 7:41:50 PM] Mira: I can drive on Saturday, three seats free
+[1/29/26, 7:43:50 PM] Tomasz: That climb was brutal last time 😂😂
+[1/29/26, 7:46:14 PM] Mira: I need new boots before Saturday
+[1/29/26, 7:48:15 PM] Bruno: ‎sticker omitted
+[1/29/26, 7:52:10 PM] Chen: The view from the top is worth it
+[1/29/26, 9:08:33 PM] Bruno: Can someone bring a spare boots? ⛰️
+[1/29/26, 9:10:31 PM] Chen: Trail report says it is open: https://example.com/reports/fox-hollow
+[1/29/26, 9:11:23 PM] Dalia: Train or car?
+[1/29/26, 9:14:40 PM] Mira: ok
+[1/31/26, 8:24:54 AM] Bruno: Is the Pine Ridge trail open after the storm?
+[1/31/26, 8:26:21 AM] Bruno: ‎image omitted
+[1/31/26, 8:27:39 AM] Tomasz: Great idea 😂
+[1/31/26, 8:30:43 AM] Chen: Home safe, thanks everyone
+[1/31/26, 8:31:15 AM] Mira: Not sure yet, will confirm tonight
+[1/31/26, 8:48:28 AM] Dalia: I found a new route near Heron Lake, about 12 km
+[1/31/26, 8:51:36 AM] Mira: ‎sticker omitted
+[1/31/26, 8:55:06 AM] Chen: ok
+[1/31/26, 12:06:59 PM] Mira: Is the Heron Lake trail open after the storm?
+[1/31/26, 12:08:27 PM] Tomasz: Who has the map?
+[1/31/26, 6:06:26 PM] Mira: Reminder: we meet at 9:00 at the car park
+[1/31/26, 6:08:57 PM] Tomasz: Cars for Sunday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[1/31/26, 6:11:39 PM] Bruno: Long loop please
+[1/31/26, 6:12:28 PM] Mira: ‎image omitted
+[1/31/26, 6:15:17 PM] Tomasz: Same plan as last week then
+[1/31/26, 6:18:03 PM] Bruno: I need new boots before Friday evening
+[1/31/26, 6:19:46 PM] Mira: Home safe, thanks everyone 🙌
+[1/31/26, 6:51:30 PM] Bruno: Photos from Lantern Peak are amazing
+[1/31/26, 6:54:33 PM] Mira: Checking the weather again tomorrow
+[1/31/26, 6:58:14 PM] Mira: I am in
+[1/31/26, 7:02:11 PM] Bruno: My knee says short loop
+[1/31/26, 7:03:51 PM] Bruno: See you all at 6:30 😅🔥
+[1/31/26, 7:21:08 PM] Chen: Can someone bring a spare first aid kit?
+[1/31/26, 7:22:24 PM] Bruno: Route is here: https://example.com/trails/fox-hollow
+[1/31/26, 7:22:52 PM] Mira: Packing list for Sunday:
+- trekking poles
+- map
+
+2 litres of water each
+10/10 would recommend the coffee
+[1/31/26, 8:10:05 PM] Bruno: I can drive on Sunday, three seats free
+[1/31/26, 8:10:27 PM] Bruno: Checking the weather again tomorrow
+[1/31/26, 8:12:43 PM] Bruno: Works for me
+[1/31/26, 8:16:19 PM] Chen: Checking the weather again tomorrow 🥾⛰️
+[1/31/26, 8:19:32 PM] Mira: Next time we go to Pine Ridge ⛰️
+[1/31/26, 8:22:44 PM] Tomasz: Best hike so far
+[1/31/26, 8:24:54 PM] Chen: Who has the map?
+[1/31/26, 8:28:49 PM] Mira: Too early for me
+[2/1/26, 5:58:15 PM] Dalia: Anyone free for a short hike on Saturday? 🔥
+[2/1/26, 6:02:02 PM] Bruno: Almost there
+[2/1/26, 7:52:54 PM] Bruno: Weather for Saturday looks good, thinking Windy Saddle
+[2/1/26, 7:56:17 PM] Tomasz: Do not forget your rain jacket
+[2/1/26, 7:57:29 PM] Bruno: Packing list for Sunday:
+- water bottle
+- sunscreen
+
+2 litres of water each
+10/10 would recommend the bananas
+[2/1/26, 8:01:18 PM] Mira: Same plan as last week then 😴
+[2/1/26, 8:04:04 PM] Tomasz: See you all at 9:00 🔥
+[2/1/26, 8:27:01 PM] Chen: I can drive on Saturday, three seats free
+[2/1/26, 8:30:55 PM] Dalia: Almost there
+[2/2/26, 10:13:02 AM] Chen: Planning thread for Saturday: route, cars, food
+[2/2/26, 10:16:33 AM] Mira: Booked the hut, details at https://example.org/huts/fox-hollow
+[2/2/26, 10:19:01 AM] Tomasz: Who has the map?
+[2/2/26, 10:20:48 AM] Chen: Almost there ‎<This message was edited>
+[2/2/26, 12:52:56 PM] Mira: Should we do the long loop or the short one? 👍
+[2/2/26, 12:54:13 PM] Bruno: Not sure yet, will confirm tonight
+[2/2/26, 12:57:43 PM] Dalia: Too early for me
+[2/2/26, 12:58:35 PM] Mira: Long loop please
+[2/2/26, 1:01:26 PM] Chen: Trail was muddy but fun
+[2/2/26, 1:05:19 PM] Chen: ‎image omitted
+[2/2/26, 1:07:55 PM] Mira: I need new boots before Saturday
+[2/2/26, 1:09:25 PM] Bruno: Packing list for Friday evening:
+- rain jacket
+- first aid kit
+
+2 litres of water each
+10/10 would recommend the chocolate
+[2/2/26, 1:10:47 PM] Dalia: Next time we go to Fox Hollow 🔥
+[2/3/26, 10:49:53 AM] Mira: Photos from Pine Ridge are amazing
+[2/3/26, 10:51:12 AM] Chen: Same plan as last week then ☀️
+[2/3/26, 2:43:44 PM] Bruno: Who is in for Mossy Creek on Saturday?
+[2/3/26, 2:44:43 PM] Tomasz: Works for me 👍
+[2/3/26, 2:46:11 PM] Chen: Plan for Saturday:
+Meet: 9:00 at the car park
+Route: Heron Lake - long loop
+Food: tea
+[2/3/26, 2:48:04 PM] Dalia: Let us keep it easy this week 👍
+[2/3/26, 2:49:28 PM] Bruno: Great idea ⛰️⛰️
+[2/3/26, 2:50:08 PM] Chen: Do not forget your boots 👍🔥
+[2/3/26, 2:52:37 PM] Bruno: Long loop please
+[2/3/26, 2:53:20 PM] Mira: Route is here: https://example.com/trails/lantern-peak
+[2/3/26, 2:55:56 PM] Tomasz: Same plan as last week then 😴
+[2/3/26, 8:26:37 PM] Mira: Can someone bring a spare boots?
+[2/3/26, 8:30:07 PM] Chen: Who has the map?
+[2/3/26, 8:32:38 PM] Bruno: Too early for me
+[2/3/26, 8:34:31 PM] Mira: ‎GIF omitted
+[2/3/26, 8:36:23 PM] Bruno: haha yes 🥾
+[2/3/26, 8:38:56 PM] Dalia: Not sure yet, will confirm tonight
+[2/3/26, 8:42:22 PM] Chen: Next time we go to Heron Lake
+[2/3/26, 8:43:28 PM] Mira: ‎GIF omitted
+[2/4/26, 6:00:00 AM] ‎Ines joined using this group's invite link
+[2/5/26, 7:54:03 PM] Chen: My legs are still sore from Fox Hollow
+[2/5/26, 7:54:24 PM] Mira: haha yes
+[2/5/26, 7:57:36 PM] Bruno: 😂
+[2/5/26, 7:59:09 PM] Chen: Not sure yet, will confirm tonight ⛰️
+[2/5/26, 8:00:22 PM] Dalia: Thanks!
+[2/5/26, 8:01:47 PM] Bruno: Running ten minutes late
+[2/5/26, 8:05:00 PM] Chen: Trail was muddy but fun 🙌
+[2/5/26, 9:28:26 PM] Bruno: My legs are still sore from Lantern Peak
+[2/5/26, 9:32:21 PM] Dalia: Packing list for Sunday:
+- rain jacket
+- boots
+
+2 litres of water each
+10/10 would recommend the trail mix
+[2/5/26, 9:34:25 PM] Ines: ok
+[2/5/26, 9:35:52 PM] Bruno: Not sure yet, will confirm tonight
+[2/5/26, 9:54:09 PM] Bruno: Is the Pine Ridge trail open after the storm?
+[2/5/26, 9:57:18 PM] Mira: Checking the weather again tomorrow 😅
+[2/5/26, 10:00:35 PM] Bruno: Great idea
+[2/5/26, 10:01:13 PM] Ines: ⛰️⛰️⛰️
+[2/6/26, 1:45:27 PM] Ines: Can someone bring a spare boots?
+[2/6/26, 1:48:15 PM] Bruno: Agreed, Heron Lake it is
+[2/6/26, 1:51:03 PM] Dalia: I need new boots before Sunday
+[2/6/26, 1:55:21 PM] Chen: Is the Fox Hollow trail open after the storm? 🥾
+[2/6/26, 1:57:08 PM] Tomasz: Too early for me ⛰️
+[2/6/26, 6:24:29 PM] Mira: Forecast says rain on Sunday, should we move the hike?
+[2/6/26, 6:25:07 PM] Chen: ok ‎<This message was edited>
+[2/6/26, 6:27:09 PM] Dalia: Thanks!
+[2/6/26, 6:29:38 PM] Bruno: ‎sticker omitted
+[2/6/26, 6:32:02 PM] Mira: Not sure yet, will confirm tonight
+[2/6/26, 7:33:54 PM] Bruno: Photos from Heron Lake are amazing
+[2/6/26, 7:37:10 PM] Chen: Do not forget your sunscreen
+[2/6/26, 7:39:36 PM] Dalia: Who has the map?
+[2/6/26, 7:41:41 PM] Tomasz: Cars for Sunday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[2/6/26, 7:43:39 PM] Dalia: I can pick up two people on the way
+[2/6/26, 7:44:24 PM] Mira: 🥾
+[2/6/26, 7:45:03 PM] Bruno: Can we start at 6:30 instead?
+[2/6/26, 7:46:45 PM] Dalia: Packing list for Saturday:
+- sunscreen
+- headlamp
+
+2 litres of water each
+10/10 would recommend the sandwiches
+[2/7/26, 9:55:26 AM] Chen: What time are we starting on Saturday?
+[2/7/26, 9:58:11 AM] Mira: See you all at 9:00
+[2/7/26, 9:58:53 AM] Chen: ‎sticker omitted
+[2/7/26, 9:59:55 AM] Chen: I can pick up two people on the way
+[2/7/26, 12:38:21 PM] Dalia: What time are we starting on Saturday? 😂
+[2/7/26, 12:40:59 PM] Bruno: My legs are still sore from Lantern Peak
+[2/7/26, 12:41:41 PM] Chen: Agreed, Windy Saddle it is ❤️
+[2/7/26, 12:44:58 PM] Mira: Great idea ‎<This message was edited>
+[2/7/26, 12:46:01 PM] Chen: ‎sticker omitted
+[2/7/26, 12:49:57 PM] Bruno: ‎image omitted
+[2/7/26, 12:50:53 PM] Chen: Weather link https://example.org/forecast/heron-lake
+[2/7/26, 12:52:05 PM] Bruno: ‎image omitted
+[2/7/26, 12:55:20 PM] Ines: Long loop please
+[2/7/26, 2:53:46 PM] Bruno: Reminder: we meet at 6:30 at the car park
+[2/7/26, 2:55:39 PM] Mira: Best hike so far
+[2/7/26, 2:59:31 PM] Chen: Can we start at 7:00 instead? 🌧️
+[2/7/26, 3:44:12 PM] Ines: Weather for Sunday looks good, thinking Pine Ridge ⛰️🥾
+[2/7/26, 3:47:47 PM] Chen: Who has the map?
+[2/7/26, 3:48:31 PM] Tomasz: Do not forget your trekking poles
+[2/7/26, 7:39:28 PM] Dalia: Reminder: we meet at 7:30 at the car park
+[2/7/26, 7:41:29 PM] Bruno: 😅😅😅
+[2/7/26, 7:42:35 PM] Chen: My knee says short loop
+[2/7/26, 7:44:24 PM] Dalia: Checking the weather again tomorrow
+[2/7/26, 7:46:58 PM] Ines: Train or car? ⛰️
+[2/7/26, 7:49:50 PM] Bruno: ⛰️⛰️⛰️
+[2/7/26, 10:47:11 PM] Bruno: Planning thread for Saturday: route, cars, food
+[2/7/26, 10:47:42 PM] Dalia: Almost there 👍🏽
+[2/7/26, 10:49:54 PM] Bruno: Checking the weather again tomorrow
+[2/7/26, 10:50:22 PM] Mira: Home safe, thanks everyone
+[2/7/26, 10:51:00 PM] Bruno: My knee says short loop
+[2/8/26, 8:03:31 AM] Dalia: Anyone free for a short hike on Saturday? 🥾
+[2/8/26, 8:06:27 AM] Bruno: haha yes 👍
+[2/8/26, 8:10:08 AM] Tomasz: My knee says short loop 🌧️
+[2/8/26, 8:13:18 AM] Ines: My legs are still sore from Windy Saddle
+[2/8/26, 8:16:07 AM] Chen: Bringing tea for everyone
+[2/8/26, 8:18:48 AM] Mira: Thanks!
+[2/8/26, 8:20:30 AM] Mira: Count me in
+[2/8/26, 8:22:45 AM] Ines: The view from the top is worth it
+[2/8/26, 8:25:36 AM] Chen: Train or car?
+[2/8/26, 8:35:49 AM] Mira: Is the Fox Hollow trail open after the storm?
+[2/8/26, 8:38:29 AM] Dalia: Booked the hut, details at https://example.org/huts/lantern-peak
+[2/8/26, 8:41:50 AM] Mira: Almost there
+[2/8/26, 8:43:32 AM] Chen: ‎image omitted
+[2/8/26, 8:45:35 AM] Mira: ⛰️⛰️
+[2/8/26, 8:48:35 AM] Bruno: haha yes 🧗‍♀️
+[2/8/26, 8:49:37 AM] Mira: Trail was muddy but fun
+[2/8/26, 8:50:04 AM] Dalia: Same plan as last week then
+[2/8/26, 8:53:29 AM] Mira: Bringing trail mix for everyone
+[2/8/26, 2:58:39 PM] Bruno: Should we do the long loop or the short one?
+[2/8/26, 3:02:24 PM] Bruno: Running ten minutes late 😂
+[2/8/26, 3:03:24 PM] Ines: Running ten minutes late
+[2/8/26, 3:06:01 PM] Tomasz: 😂😂
+[2/8/26, 3:07:22 PM] Bruno: Great idea
+[2/8/26, 9:43:27 PM] Mira: Reminder: we meet at 7:00 at the car park
+[2/8/26, 9:46:21 PM] Chen: Too early for me
+[2/8/26, 9:47:36 PM] Bruno: Sounds good 🥾
+[2/8/26, 9:50:41 PM] Mira: Do not forget your rain jacket 😂
+[2/8/26, 9:51:18 PM] Dalia: Can we start at 8:00 instead?
+[2/8/26, 9:53:59 PM] Chen: Train or car?
+[2/8/26, 9:54:39 PM] Bruno: Checking the weather again tomorrow 🥾
+[2/8/26, 9:56:11 PM] Chen: 🥾🥾
+[2/8/26, 9:59:58 PM] Mira: I need new boots before Sunday
+[2/10/26, 8:17:11 PM] Bruno: I can drive on Sunday, three seats free
+[2/10/26, 8:18:08 PM] Mira: Do not forget your first aid kit 🧗‍♀️
+[2/10/26, 8:19:16 PM] Bruno: Not sure yet, will confirm tonight
+[2/10/26, 8:22:43 PM] Bruno: My legs are still sore from Windy Saddle
+[2/10/26, 8:26:30 PM] Dalia: Weather link https://example.org/forecast/windy-saddle
+[2/10/26, 8:29:57 PM] Ines: I need new boots before Saturday
+[2/10/26, 8:30:48 PM] Tomasz: Too early for me
+[2/10/26, 8:34:46 PM] Mira: Agreed, Lantern Peak it is
+[2/10/26, 8:35:52 PM] Dalia: Agreed, Pine Ridge it is
+[2/10/26, 8:39:51 PM] Chen: Same plan as last week then 🔥
+[2/10/26, 8:55:28 PM] Bruno: Should we do the long loop or the short one?
+[2/10/26, 8:57:00 PM] Mira: Agreed, Heron Lake it is
+[2/10/26, 8:58:41 PM] Chen: Great idea
+[2/10/26, 9:01:59 PM] Bruno: Long loop please
+[2/11/26, 8:43:59 AM] Mira: What time are we starting on Saturday? ☀️🥾
+[2/11/26, 8:44:43 AM] Chen: ‎video omitted
+[2/11/26, 8:46:23 AM] Bruno: Home safe, thanks everyone
+[2/11/26, 8:49:23 AM] Dalia: Perfect
+[2/11/26, 8:50:59 AM] Ines: My knee says short loop 😂
+[2/11/26, 8:53:59 AM] Chen: Long loop please
+[2/11/26, 8:57:33 AM] Dalia: Home safe, thanks everyone
+[2/11/26, 8:33:29 PM] Ines: My legs are still sore from Heron Lake
+[2/11/26, 8:36:05 PM] Tomasz: Agreed, Heron Lake it is
+[2/11/26, 8:38:39 PM] Chen: Same plan as last week then
+[2/11/26, 8:40:22 PM] Bruno: Booked the hut, details at https://example.org/huts/fox-hollow
+[2/11/26, 8:41:29 PM] Dalia: I have a spare map
+[2/11/26, 8:43:07 PM] Chen: I need new boots before Sunday 👍🏽🥾
+[2/11/26, 8:44:01 PM] Mira: The view from the top is worth it 😂
+[2/11/26, 8:47:33 PM] Mira: ‎image omitted
+[2/11/26, 8:47:39 PM] Dalia: Forecast says rain on Saturday, should we move the hike?
+[2/11/26, 8:48:04 PM] Chen: That climb was brutal last time
+[2/11/26, 8:48:38 PM] Tomasz: I will bring coffee
+[2/11/26, 8:51:35 PM] Dalia: Cars for Sunday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[2/11/26, 8:54:51 PM] Mira: Packing list for Friday evening:
+- sunscreen
+- map
+
+2 litres of water each
+10/10 would recommend the tea
+[2/11/26, 8:56:31 PM] Chen: ok
+[2/11/26, 8:59:24 PM] Bruno: I need new boots before Saturday ❤️
+[2/11/26, 9:00:31 PM] Mira: Sounds good
+[2/11/26, 9:42:27 PM] Mira: I found a new route near Pine Ridge, about 12 km
+[2/11/26, 9:45:16 PM] Ines: Cars for Friday evening:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[2/11/26, 9:45:47 PM] Chen: ok
+[2/12/26, 9:02:59 AM] Bruno: Weather for Sunday looks good, thinking Pine Ridge
+[2/12/26, 9:05:11 AM] Chen: That climb was brutal last time 😅
+[2/12/26, 9:08:51 AM] Mira: 😴😴
+[2/12/26, 9:10:18 AM] Mira: Home safe, thanks everyone
+[2/12/26, 9:12:02 AM] Tomasz: Cars for Friday evening:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[2/12/26, 9:15:46 AM] Mira: I need new boots before Sunday
+[2/12/26, 9:19:19 AM] Dalia: Thanks!
+[2/12/26, 9:19:43 AM] Chen: Not sure yet, will confirm tonight
+[2/12/26, 9:23:37 AM] Mira: Train or car?
+[2/12/26, 12:28:39 PM] Bruno: I can drive on Sunday, three seats free
+[2/12/26, 12:30:24 PM] Mira: Route is here: https://example.com/trails/pine-ridge
+[2/12/26, 12:34:19 PM] Dalia: The view from the top is worth it
+[2/12/26, 12:38:18 PM] Mira: I will bring chocolate
+[2/13/26, 7:45:30 AM] Dalia: Should we do the long loop or the short one? 😴
+[2/13/26, 7:49:26 AM] Mira: Long loop please
+[2/13/26, 9:54:39 AM] Dalia: Weather for Saturday looks good, thinking Pine Ridge
+[2/13/26, 9:57:52 AM] Bruno: ‎video omitted
+[2/13/26, 10:01:44 AM] Mira: Booked the hut, details at https://example.org/huts/fox-hollow
+[2/13/26, 10:04:59 AM] Bruno: Bringing oranges for everyone
+[2/13/26, 10:06:52 AM] Chen: Next time we go to Heron Lake
+[2/13/26, 10:07:25 AM] Bruno: Home safe, thanks everyone ❤️🥾
+[2/13/26, 10:10:20 AM] Mira: Train or car?
+[2/13/26, 10:10:57 AM] Chen: Can we start at 8:00 instead?
+[2/13/26, 10:13:50 AM] Mira: ‎This message was deleted.
+[2/13/26, 7:18:13 PM] Chen: Who is in for Fox Hollow on Saturday?
+[2/13/26, 7:20:54 PM] Mira: Perfect
+[2/13/26, 7:22:44 PM] Chen: Sounds good
+[2/13/26, 7:25:55 PM] Dalia: Trail report says it is open: https://example.com/reports/lantern-peak
+[2/13/26, 7:27:03 PM] Mira: Running ten minutes late 🥾🔥
+[2/13/26, 7:29:11 PM] Dalia: I am in 🧗‍♀️
+[2/13/26, 7:31:27 PM] Dalia: Train or car? 🥾 ‎<This message was edited>
+[2/13/26, 9:09:48 PM] Mira: Weather for Saturday looks good, thinking Mossy Creek
+[2/13/26, 9:12:55 PM] Bruno: Bringing oranges for everyone 😂 ‎<This message was edited>
+[2/13/26, 9:14:33 PM] Mira: I will bring coffee
+[2/13/26, 9:17:51 PM] Chen: My knee says short loop
+[2/13/26, 9:21:09 PM] Dalia: 😴😴
+[2/13/26, 9:24:10 PM] Chen: Checking the weather again tomorrow
+[2/13/26, 9:25:16 PM] Mira: ‎This message was deleted.
+[2/13/26, 10:06:44 PM] Chen: Can someone bring a spare water bottle?
+[2/13/26, 10:09:22 PM] Mira: Works for me
+[2/13/26, 10:12:06 PM] Tomasz: Home safe, thanks everyone
+[2/13/26, 10:12:52 PM] Tomasz: Long loop please
+[2/14/26, 9:58:54 AM] Dalia: Is the Pine Ridge trail open after the storm?
+[2/14/26, 10:02:09 AM] Bruno: Best hike so far
+[2/14/26, 10:06:00 AM] Ines: Thanks!
+[2/14/26, 10:06:58 AM] Tomasz: Let us keep it easy this week
+[2/14/26, 10:09:20 AM] Ines: Works for me 😂
+[2/14/26, 10:52:32 AM] Dalia: Weather for Saturday looks good, thinking Fox Hollow 😅
+[2/14/26, 10:54:36 AM] Mira: Bringing coffee for everyone
+[2/14/26, 10:55:24 AM] Bruno: ok
+[2/14/26, 10:58:27 AM] Mira: I am in
+[2/14/26, 11:00:29 AM] Chen: Great idea
+[2/14/26, 11:04:29 AM] Bruno: Great idea ☀️
+[2/14/26, 11:06:08 AM] Bruno: ‎GIF omitted
+[2/14/26, 11:09:58 AM] Chen: Bringing oranges for everyone
+[2/14/26, 11:11:15 AM] Dalia: Booked the hut, details at https://example.org/huts/lantern-peak
+[2/14/26, 11:41:21 AM] Bruno: Is the Mossy Creek trail open after the storm?
+[2/14/26, 11:44:25 AM] Dalia: Can we start at 6:30 instead? ‎<This message was edited>
+[2/14/26, 11:46:24 AM] Mira: ok
+[2/14/26, 11:50:14 AM] Ines: I am in
+[2/14/26, 11:52:04 AM] Bruno: Perfect
+[2/14/26, 11:55:30 AM] Chen: That climb was brutal last time
+[2/14/26, 11:57:20 AM] Bruno: haha yes 👍
+[2/14/26, 2:19:11 PM] Bruno: Reminder: we meet at 7:00 at the car park
+[2/14/26, 2:22:40 PM] Ines: That climb was brutal last time ⛰️
+[2/14/26, 2:24:00 PM] Dalia: Who has the map?
+[2/14/26, 2:25:42 PM] Chen: ‎image omitted
+[2/14/26, 2:26:04 PM] Mira: Agreed, Lantern Peak it is
+[2/14/26, 2:29:35 PM] Dalia: Booked the hut, details at https://example.org/huts/pine-ridge
+[2/14/26, 2:30:25 PM] Bruno: Cars for Friday evening:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[2/14/26, 2:32:41 PM] Chen: Thanks!
+[2/14/26, 4:37:03 PM] Mira: Photos from Fox Hollow are amazing 😂
+[2/14/26, 4:38:42 PM] Chen: See you all at 7:00
+[2/14/26, 4:40:27 PM] Bruno: Weather link https://example.org/forecast/mossy-creek
+[2/14/26, 7:21:14 PM] Mira: Forecast says rain on Sunday, should we move the hike?
+[2/14/26, 7:23:55 PM] Chen: Weather link https://example.org/forecast/mossy-creek
+[2/14/26, 7:25:34 PM] Dalia: Too early for me
+[2/14/26, 7:28:52 PM] Mira: ‎image omitted
+[2/14/26, 7:31:17 PM] Chen: ‎GIF omitted
+[2/14/26, 7:35:16 PM] Bruno: Who has the map?
+[2/14/26, 7:38:47 PM] Mira: Checking the weather again tomorrow
+[2/14/26, 7:40:12 PM] Dalia: Too early for me
+[2/14/26, 7:43:21 PM] Bruno: ok
+[2/14/26, 7:58:34 PM] Mira: I can drive on Friday evening, three seats free 😂
+[2/14/26, 8:00:34 PM] Dalia: That climb was brutal last time
+[2/14/26, 8:04:13 PM] Chen: Trail report says it is open: https://example.com/reports/heron-lake
+[2/14/26, 8:06:23 PM] Mira: Thanks!
+[2/14/26, 8:10:01 PM] Bruno: Perfect
+[2/14/26, 8:12:04 PM] Mira: Forecast says rain on Saturday, should we move the hike?
+[2/14/26, 8:15:12 PM] Bruno: Can we start at 7:00 instead?
+[2/14/26, 8:16:13 PM] Mira: 😂😂😂
+[2/14/26, 8:18:56 PM] Tomasz: Do not forget your rain jacket
+[2/14/26, 8:20:51 PM] Mira: Too early for me 👍
+[2/14/26, 8:23:00 PM] Bruno: Bringing sandwiches for everyone 😂
+[2/14/26, 8:24:46 PM] Mira: Home safe, thanks everyone
+[2/14/26, 8:26:57 PM] Chen: The view from the top is worth it ⛰️
+[2/14/26, 8:27:56 PM] Mira: ‎sticker omitted
+[2/15/26, 8:46:17 AM] Mira: I found a new route near Fox Hollow, about 12 km
+[2/15/26, 8:50:10 AM] Chen: haha yes
+[2/15/26, 3:15:20 PM] Mira: Is the Windy Saddle trail open after the storm?
+[2/15/26, 3:18:15 PM] Dalia: ‎GIF omitted
+[2/15/26, 3:22:04 PM] Chen: Sounds good
+[2/15/26, 3:23:31 PM] Dalia: I am in
+[2/15/26, 3:24:02 PM] Chen: I can pick up two people on the way
+[2/15/26, 3:25:13 PM] Mira: Best hike so far 🥾⛰️
+[2/15/26, 3:27:57 PM] Mira: Great idea
+[2/15/26, 3:29:05 PM] Chen: See you all at 7:00 🧗‍♀️
+[2/15/26, 5:24:00 PM] Tomasz: Who is in for Pine Ridge on Saturday?
+[2/15/26, 5:25:33 PM] Mira: Same plan as last week then 🙌
+[2/15/26, 5:27:01 PM] Ines: ‎image omitted
+[2/15/26, 5:29:52 PM] Mira: ‎video omitted
+[2/15/26, 5:30:38 PM] Mira: Almost there
+[2/15/26, 5:33:59 PM] Chen: Long loop please
+[2/15/26, 5:36:04 PM] Mira: ok
+[2/15/26, 5:38:05 PM] Chen: ‎image omitted
+[2/15/26, 6:27:58 PM] Mira: Can someone bring a spare water bottle?
+[2/15/26, 6:29:21 PM] Dalia: ‎image omitted
+[2/15/26, 6:30:43 PM] Chen: ‎image omitted
+[2/15/26, 6:32:38 PM] Mira: I need new boots before Saturday 😴☀️
+[2/15/26, 6:33:46 PM] Bruno: Running ten minutes late
+[2/15/26, 6:36:36 PM] Chen: I will bring dumplings
+[2/15/26, 6:40:09 PM] Bruno: Plan for Sunday:
+Meet: 7:30 at the car park
+Route: Fox Hollow - long loop
+Food: coffee
+[2/15/26, 6:41:59 PM] Mira: ok 👍🏽
+[2/15/26, 9:37:02 PM] Ines: Is the Fox Hollow trail open after the storm?
+[2/15/26, 9:38:48 PM] Mira: I need new boots before Sunday
+[2/15/26, 9:42:30 PM] Chen: Great idea
+[2/15/26, 9:44:06 PM] Bruno: ‎GIF omitted
+[2/15/26, 9:45:01 PM] Mira: Booked the hut, details at https://example.org/huts/lantern-peak
+[2/15/26, 9:48:39 PM] Tomasz: I can pick up two people on the way
+[2/15/26, 9:52:23 PM] Bruno: Train or car? 🥾
+[2/15/26, 9:53:25 PM] Chen: Same plan as last week then 🥾
+[2/15/26, 9:56:06 PM] Bruno: Who has the map?
+[2/16/26, 10:13:44 PM] Bruno: Weather for Saturday looks good, thinking Windy Saddle 😂
+[2/16/26, 10:17:06 PM] Mira: Long loop please
+[2/16/26, 10:18:33 PM] Chen: I am in
+[2/17/26, 8:14:32 AM] Bruno: Reminder: we meet at 8:00 at the car park
+[2/17/26, 8:15:50 AM] Mira: Let us keep it easy this week
+[2/17/26, 8:18:24 AM] Bruno: ‎image omitted
+[2/17/26, 8:21:33 AM] Mira: Not sure yet, will confirm tonight
+[2/17/26, 8:44:03 PM] Bruno: What time are we starting on Saturday? 😂
+[2/17/26, 8:47:47 PM] Mira: ‎sticker omitted
+[2/19/26, 8:15:15 PM] Dalia: Is the Mossy Creek trail open after the storm?
+[2/19/26, 8:16:57 PM] Bruno: Home safe, thanks everyone
+[2/19/26, 8:19:34 PM] Mira: ‎GIF omitted
+[2/19/26, 8:23:15 PM] Chen: Too early for me 😅
+[2/19/26, 8:23:52 PM] Mira: I have a spare sunscreen
+[2/19/26, 8:25:56 PM] Bruno: That climb was brutal last time
+[2/19/26, 8:26:41 PM] Mira: Home safe, thanks everyone
+[2/19/26, 9:07:32 PM] Bruno: Weather for Sunday looks good, thinking Fox Hollow
+[2/19/26, 9:10:11 PM] Dalia: Home safe, thanks everyone ⛰️
+[2/19/26, 9:14:09 PM] Mira: haha yes
+[2/19/26, 9:16:39 PM] Chen: Count me in 👍🥾
+[2/19/26, 9:20:21 PM] Tomasz: Booked the hut, details at https://example.org/huts/mossy-creek
+[2/19/26, 9:22:50 PM] Ines: Weather link https://example.org/forecast/lantern-peak
+[2/19/26, 9:24:21 PM] Bruno: 🥾🥾🥾
+[2/19/26, 9:27:23 PM] Ines: Perfect
+[2/20/26, 1:43:20 PM] Bruno: Photos from Pine Ridge are amazing
+[2/20/26, 1:43:44 PM] Chen: Works for me
+[2/20/26, 1:44:38 PM] Bruno: Do not forget your map ⛰️
+[2/20/26, 1:46:25 PM] Mira: Do not forget your rain jacket 😅
+[2/20/26, 1:47:01 PM] Chen: I can pick up two people on the way ☀️
+[2/20/26, 1:49:14 PM] Mira: I have a spare trekking poles
+[2/20/26, 1:52:54 PM] Bruno: I am in
+[2/20/26, 1:54:05 PM] Chen: Checking the weather again tomorrow 🥾
+[2/20/26, 7:13:46 PM] Bruno: Anyone free for a short hike on Saturday?
+[2/20/26, 7:16:06 PM] Chen: Agreed, Mossy Creek it is
+[2/20/26, 7:17:01 PM] Dalia: 👍👍👍
+[2/20/26, 7:17:29 PM] Bruno: ❤️❤️
+[2/20/26, 7:23:17 PM] Mira: What time are we starting on Saturday? 🌧️
+[2/20/26, 7:25:31 PM] Bruno: haha yes
+[2/20/26, 7:26:05 PM] Ines: I will bring trail mix
+[2/20/26, 7:27:14 PM] Chen: That climb was brutal last time 👍🏽
+[2/20/26, 7:28:07 PM] Dalia: That climb was brutal last time
+[2/20/26, 7:46:42 PM] Tomasz: Planning thread for Friday evening: route, cars, food
+[2/20/26, 7:47:03 PM] Mira: ok 🔥
+[2/20/26, 7:50:08 PM] Mira: I have a spare water bottle
+[2/20/26, 7:51:07 PM] Mira: Great idea
+[2/20/26, 8:55:39 PM] Mira: Is the Pine Ridge trail open after the storm?
+[2/20/26, 8:56:04 PM] Tomasz: Trail was muddy but fun
+[2/20/26, 8:57:22 PM] Dalia: Trail was muddy but fun
+[2/20/26, 10:19:39 PM] Bruno: Weather for Sunday looks good, thinking Heron Lake
+[2/20/26, 10:20:50 PM] Mira: Best hike so far
+[2/21/26, 8:49:30 AM] Mira: Forecast says rain on Sunday, should we move the hike? 😂
+[2/21/26, 8:51:55 AM] Chen: Great idea
+[2/21/26, 8:53:03 AM] Bruno: Trail report says it is open: https://example.com/reports/fox-hollow
+[2/21/26, 8:53:52 AM] Mira: I will bring trail mix 🙌
+[2/21/26, 8:54:18 AM] Mira: I can drive on Saturday, three seats free
+[2/21/26, 8:55:44 AM] Mira: Forecast says rain on Friday evening, should we move the hike? 😂
+[2/21/26, 8:55:52 AM] Chen: ok
+[2/21/26, 8:56:18 AM] Bruno: Best hike so far
+[2/21/26, 8:56:19 AM] Bruno: Let us keep it easy this week 🙌
+[2/21/26, 8:59:12 AM] Dalia: Great idea
+[2/21/26, 8:59:34 AM] Mira: Too early for me 🥾
+[2/21/26, 9:00:12 AM] Dalia: Great idea 🥾😂
+[2/21/26, 9:00:24 AM] Chen: Train or car?
+[2/21/26, 9:02:01 AM] Mira: I am in ⛰️
+[2/21/26, 9:03:24 AM] Chen: My knee says short loop
+[2/21/26, 9:03:38 AM] Bruno: I need new boots before Sunday
+[2/21/26, 9:05:26 AM] Dalia: Agreed, Heron Lake it is
+[2/21/26, 9:45:08 AM] Tomasz: Is the Lantern Peak trail open after the storm? ☀️
+[2/21/26, 9:46:49 AM] Bruno: Long loop please
+[2/21/26, 9:49:33 AM] Mira: Running ten minutes late
+[2/21/26, 9:52:24 AM] Dalia: I am in
+[2/21/26, 9:53:50 AM] Mira: Long loop please
+[2/21/26, 9:57:46 AM] Bruno: Same plan as last week then
+[2/21/26, 9:58:16 AM] Mira: Plan for Sunday:
+Meet: 7:00 at the car park
+Route: Lantern Peak - long loop
+Food: bananas
+[2/21/26, 10:01:37 AM] Chen: 😂
+[2/21/26, 6:10:47 PM] Mira: Anyone free for a short hike on Sunday?
+[2/21/26, 6:13:33 PM] Bruno: Not sure yet, will confirm tonight
+[2/21/26, 6:16:59 PM] Ines: Almost there
+[2/21/26, 6:18:35 PM] Mira: Great idea
+[2/21/26, 6:21:40 PM] Bruno: I am in 😂
+[2/21/26, 6:24:33 PM] Mira: ok
+[2/21/26, 6:27:38 PM] Dalia: ‎image omitted
+[2/21/26, 6:31:15 PM] Mira: Home safe, thanks everyone 👍🏽
+[2/21/26, 6:33:50 PM] Dalia: Checking the weather again tomorrow
+[2/21/26, 7:35:21 PM] Dalia: Weather for Saturday looks good, thinking Pine Ridge
+[2/21/26, 7:36:34 PM] Dalia: Perfect
+[2/21/26, 11:22:17 PM] Chen: Photos from Fox Hollow are amazing
+[2/21/26, 11:24:25 PM] Mira: Not sure yet, will confirm tonight 🥾
+[2/21/26, 11:26:13 PM] Bruno: I can pick up two people on the way
+[2/21/26, 11:28:31 PM] Dalia: Great idea
+[2/22/26, 7:27:32 PM] Bruno: Anyone free for a short hike on Sunday?
+[2/22/26, 7:30:00 PM] Dalia: Booked the hut, details at https://example.org/huts/heron-lake
+[2/22/26, 7:33:06 PM] Chen: I will bring trail mix ☀️
+[2/22/26, 7:37:01 PM] Ines: Checking the weather again tomorrow
+[2/22/26, 7:39:41 PM] Chen: ❤️❤️❤️
+[2/22/26, 7:40:48 PM] Bruno: Perfect
+[2/22/26, 7:44:16 PM] Chen: ‎This message was deleted.
+[2/22/26, 7:48:07 PM] Ines: See you all at 7:30 😂
+[2/22/26, 8:04:53 PM] Mira: I found a new route near Lantern Peak, about 12 km 😂
+[2/22/26, 8:06:34 PM] Bruno: ok
+[2/22/26, 8:07:58 PM] Chen: ‎image omitted
+[2/22/26, 8:09:24 PM] Mira: Next time we go to Windy Saddle
+[2/22/26, 8:11:06 PM] Dalia: Can we start at 6:30 instead?
+[2/22/26, 8:47:38 PM] Bruno: Should we do the long loop or the short one?
+[2/22/26, 8:49:26 PM] Mira: Sounds good
+[2/22/26, 8:50:42 PM] Dalia: Bringing tea for everyone 🥾
+[2/22/26, 8:54:21 PM] Bruno: ‎image omitted
+[2/22/26, 8:58:24 PM] Chen: Photos from Windy Saddle are amazing
+[2/22/26, 9:00:28 PM] Mira: Next time we go to Windy Saddle
+[2/22/26, 9:01:26 PM] Tomasz: Checking the weather again tomorrow
+[2/22/26, 9:05:20 PM] Bruno: Trail report says it is open: https://example.com/reports/fox-hollow
+[2/22/26, 9:05:47 PM] Chen: Thanks!
+[2/22/26, 9:08:05 PM] Mira: Trail was muddy but fun
+[2/22/26, 9:09:59 PM] Mira: Running ten minutes late
+[2/23/26, 5:45:24 PM] Bruno: Planning thread for Sunday: route, cars, food
+[2/23/26, 5:46:55 PM] Dalia: Who has the map?
+[2/23/26, 5:49:54 PM] Bruno: Count me in
+[2/23/26, 5:52:35 PM] Mira: haha yes 🥾
+[2/23/26, 5:53:14 PM] Chen: That climb was brutal last time
+[2/23/26, 5:56:42 PM] Tomasz: Home safe, thanks everyone 😅🥾
+[2/23/26, 5:58:29 PM] Bruno: ‎video omitted
+[2/23/26, 6:02:10 PM] Mira: Count me in
+[2/23/26, 6:06:05 PM] Dalia: See you all at 8:00
+[2/23/26, 6:52:44 PM] Mira: I found a new route near Mossy Creek, about 12 km ❤️😂
+[2/23/26, 6:54:38 PM] Mira: Checking the weather again tomorrow
+[2/23/26, 6:57:48 PM] Mira: ‎video omitted
+[2/23/26, 7:01:14 PM] Dalia: ok 🧗‍♀️
+[2/23/26, 7:02:04 PM] Tomasz: Almost there
+[2/23/26, 7:03:48 PM] Dalia: Route is here: https://example.com/trails/windy-saddle
+[2/23/26, 7:06:21 PM] Bruno: 😴😴😴
+[2/24/26, 6:00:48 PM] Dalia: Planning thread for Friday evening: route, cars, food
+[2/24/26, 6:02:34 PM] Bruno: That climb was brutal last time 🙌
+[2/24/26, 6:05:51 PM] Dalia: Train or car?
+[2/24/26, 6:09:25 PM] Mira: 👍
+[2/24/26, 6:12:03 PM] Tomasz: Checking the weather again tomorrow 😂
+[2/26/26, 6:00:00 AM] ‎Ines left
+[2/26/26, 10:07:13 PM] Mira: I found a new route near Windy Saddle, about 12 km
+[2/26/26, 10:09:00 PM] Tomasz: I will bring tea 🔥
+[2/26/26, 10:10:40 PM] Mira: Perfect
+[2/26/26, 10:14:28 PM] Chen: That climb was brutal last time
+[2/26/26, 10:18:15 PM] Mira: Who has the map? ❤️
+[2/26/26, 11:06:28 PM] Dalia: Weather for Sunday looks good, thinking Mossy Creek
+[2/26/26, 11:08:08 PM] Chen: Great idea ⛰️👍
+[2/26/26, 11:08:51 PM] Mira: 🌧️
+[2/26/26, 11:12:46 PM] Chen: My knee says short loop
+[2/26/26, 11:16:26 PM] Bruno: ‎image omitted
+[2/26/26, 11:17:26 PM] Mira: ‎sticker omitted
+[2/26/26, 11:18:21 PM] Bruno: Great idea
+[2/26/26, 11:19:07 PM] Mira: haha yes
+[2/26/26, 11:20:42 PM] Bruno: ‎image omitted
+[2/27/26, 8:55:48 AM] Dalia: I can drive on Sunday, three seats free
+[2/27/26, 8:57:06 AM] Mira: Who has the map?
+[2/27/26, 9:00:09 AM] Dalia: Almost there
+[2/27/26, 9:03:05 AM] Bruno: Best hike so far
+[2/27/26, 9:06:12 AM] Bruno: I will bring dumplings
+[2/27/26, 9:09:55 AM] Mira: Running ten minutes late 👍🏽
+[2/27/26, 9:12:04 AM] Dalia: Do not forget your trekking poles
+[2/27/26, 12:24:13 PM] Chen: Is the Mossy Creek trail open after the storm? 😴
+[2/27/26, 12:24:34 PM] Bruno: ‎GIF omitted
+[2/27/26, 12:26:58 PM] Dalia: I will bring chocolate
+[2/27/26, 12:30:35 PM] Chen: I will bring chocolate
+[2/27/26, 12:32:03 PM] Mira: I will bring chocolate
+[2/27/26, 12:34:24 PM] Bruno: Not sure yet, will confirm tonight
+[2/27/26, 12:38:06 PM] Tomasz: Best hike so far
+[2/27/26, 12:40:23 PM] Bruno: I have a spare water bottle ⛰️☀️
+[2/27/26, 12:41:50 PM] Tomasz: Next time we go to Heron Lake
+[2/27/26, 7:34:24 PM] Chen: Should we do the long loop or the short one?
+[2/27/26, 7:37:23 PM] Bruno: Forecast says rain on Friday evening, should we move the hike?
+[2/27/26, 7:38:02 PM] Tomasz: I need new boots before Friday evening 😴
+[2/27/26, 7:38:39 PM] Chen: Train or car?
+[2/27/26, 7:40:07 PM] Mira: Long loop please
+[2/27/26, 7:41:01 PM] Bruno: Cars for Sunday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[2/27/26, 7:42:43 PM] Bruno: ok 🙌🙌
+[2/27/26, 7:44:19 PM] Mira: Let us keep it easy this week 😂
+[2/27/26, 7:45:54 PM] Tomasz: I need new boots before Saturday 🥾
+[2/27/26, 7:46:32 PM] Chen: Too early for me
+[2/27/26, 7:48:57 PM] Dalia: Can we start at 6:30 instead?
+[2/27/26, 7:49:26 PM] Mira: Perfect
+[2/27/26, 7:50:23 PM] Tomasz: Can we start at 7:30 instead? 😂
+[2/27/26, 7:52:52 PM] Chen: Trail was muddy but fun
+[2/27/26, 7:53:38 PM] Mira: My knee says short loop 😂
+[2/27/26, 8:23:11 PM] Mira: Forecast says rain on Sunday, should we move the hike?
+[2/27/26, 8:26:19 PM] Mira: Works for me
+[2/27/26, 8:30:15 PM] Dalia: That climb was brutal last time
+[2/27/26, 8:32:02 PM] Mira: Who is in for Heron Lake on Sunday?
+[2/27/26, 8:33:30 PM] Chen: Works for me
+[2/27/26, 8:35:23 PM] Dalia: Trail was muddy but fun ⛰️
+[2/27/26, 8:35:43 PM] Tomasz: Agreed, Pine Ridge it is 🙌 ‎<This message was edited>
+[2/27/26, 8:36:56 PM] Dalia: Thanks! 🙌
+[2/27/26, 8:37:32 PM] Chen: Works for me
+[2/27/26, 8:39:22 PM] Chen: Home safe, thanks everyone
+[2/27/26, 8:40:04 PM] Dalia: My knee says short loop
+[2/27/26, 8:41:40 PM] Dalia: Perfect
+[2/28/26, 8:04:19 AM] Bruno: Planning thread for Sunday: route, cars, food ⛰️🥾
+[2/28/26, 8:05:10 AM] Tomasz: Agreed, Pine Ridge it is
+[2/28/26, 8:07:21 AM] Mira: Running ten minutes late ⛰️
+[2/28/26, 8:09:57 AM] Dalia: ‎sticker omitted
+[2/28/26, 8:12:55 AM] Mira: Works for me 🔥
+[2/28/26, 8:15:01 AM] Bruno: The view from the top is worth it
+[2/28/26, 1:43:48 PM] Bruno: Who is in for Lantern Peak on Sunday?
+[2/28/26, 1:47:30 PM] Tomasz: Who has the map?
+[2/28/26, 1:50:01 PM] Mira: Too early for me 👍
+[2/28/26, 1:53:52 PM] Bruno: See you all at 6:30
+[2/28/26, 1:55:58 PM] Mira: Checking the weather again tomorrow
+[2/28/26, 1:59:00 PM] Chen: ❤️
+[2/28/26, 2:02:14 PM] Bruno: I am in
+[2/28/26, 2:03:06 PM] Chen: My knee says short loop 🥾
+[2/28/26, 7:10:26 PM] Bruno: Forecast says rain on Saturday, should we move the hike?
+[2/28/26, 7:12:29 PM] Dalia: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[2/28/26, 7:15:42 PM] Mira: ‎GIF omitted
+[2/28/26, 7:16:13 PM] Dalia: Best hike so far
+[2/28/26, 7:18:17 PM] Chen: Works for me 👍🏽
+[2/28/26, 7:20:19 PM] Mira: Who is in for Mossy Creek on Saturday?
+[2/28/26, 7:21:09 PM] Dalia: Same plan as last week then ⛰️
+[2/28/26, 7:22:18 PM] Bruno: What time are we starting on Friday evening?
+[2/28/26, 7:23:23 PM] Dalia: Who has the map? 🌧️
+[2/28/26, 7:24:38 PM] Bruno: I have a spare headlamp
+[2/28/26, 7:24:54 PM] Chen: 🧗‍♀️🧗‍♀️🧗‍♀️
+[2/28/26, 7:25:53 PM] Mira: Not sure yet, will confirm tonight
+[2/28/26, 7:27:27 PM] Bruno: Too early for me
+[2/28/26, 7:28:12 PM] Dalia: Do not forget your sunscreen 😂🔥
+[2/28/26, 7:28:21 PM] Chen: Same plan as last week then 😂👍
+[2/28/26, 7:29:43 PM] Chen: I am in
+[2/28/26, 7:32:11 PM] Mira: My knee says short loop
+[2/28/26, 7:34:33 PM] Bruno: ‎This message was deleted.
+[2/28/26, 7:53:59 PM] Mira: I found a new route near Lantern Peak, about 12 km
+[2/28/26, 7:56:56 PM] Tomasz: Trail report says it is open: https://example.com/reports/heron-lake
+[2/28/26, 7:57:58 PM] Mira: haha yes
+[2/28/26, 8:01:03 PM] Chen: Sounds good
+[2/28/26, 8:02:46 PM] Mira: Agreed, Lantern Peak it is
+[2/28/26, 8:05:08 PM] Bruno: Best hike so far
+[2/28/26, 8:05:51 PM] Mira: Can we start at 6:30 instead?
+[2/28/26, 8:06:45 PM] Chen: Great idea
+[2/28/26, 8:07:25 PM] Tomasz: ‎sticker omitted
+[2/28/26, 10:27:53 PM] Mira: Reminder: we meet at 9:00 at the car park ❤️
+[2/28/26, 10:28:51 PM] Chen: ⛰️⛰️
+[2/28/26, 10:29:44 PM] Bruno: ‎image omitted
+[2/28/26, 10:31:11 PM] Tomasz: I have a spare trekking poles 😴😂
+[2/28/26, 10:32:34 PM] Mira: Running ten minutes late
+[2/28/26, 10:38:16 PM] Bruno: What time are we starting on Friday evening?
+[2/28/26, 10:39:55 PM] Mira: I will bring oranges 👍
+[2/28/26, 10:41:05 PM] Bruno: I need new boots before Saturday
+[2/28/26, 10:42:53 PM] Chen: I have a spare rain jacket
+[2/28/26, 10:44:43 PM] Mira: Packing list for Sunday:
+- headlamp
+- trekking poles
+
+2 litres of water each
+10/10 would recommend the sandwiches
+[2/28/26, 10:45:50 PM] Bruno: ‎This message was deleted.
+[3/1/26, 7:10:20 AM] Dalia: Can someone bring a spare map?
+[3/1/26, 7:12:16 AM] Bruno: I am in
+[3/1/26, 7:12:50 AM] Mira: I need new boots before Friday evening
+[3/1/26, 7:14:48 AM] Tomasz: That climb was brutal last time 🥾 ‎<This message was edited>
+[3/1/26, 7:15:21 AM] Dalia: Trail report says it is open: https://example.com/reports/mossy-creek
+[3/1/26, 7:18:38 AM] Mira: Great idea 👍🏽
+[3/1/26, 7:20:51 AM] Tomasz: Do not forget your first aid kit
+[3/1/26, 9:38:27 AM] Dalia: Who is in for Heron Lake on Saturday? 👍
+[3/1/26, 9:40:46 AM] Mira: I am in
+[3/1/26, 9:42:25 AM] Bruno: The view from the top is worth it 👍😂
+[3/1/26, 9:45:19 AM] Dalia: Perfect ⛰️
+[3/1/26, 9:47:23 AM] Bruno: Trail report says it is open: https://example.com/reports/heron-lake
+[3/1/26, 9:47:50 AM] Mira: Almost there
+[3/1/26, 9:50:00 AM] Bruno: Train or car?
+[3/1/26, 9:50:55 AM] Mira: Works for me
+[3/1/26, 8:58:44 PM] Mira: I found a new route near Pine Ridge, about 12 km
+[3/1/26, 8:59:30 PM] Chen: See you all at 6:30
+[3/1/26, 9:00:50 PM] Mira: Sounds good
+[3/1/26, 9:01:12 PM] Dalia: ok
+[3/1/26, 9:59:02 PM] Dalia: What time are we starting on Sunday?
+[3/1/26, 10:01:22 PM] Bruno: Trail was muddy but fun
+[3/1/26, 10:02:14 PM] Chen: Same plan as last week then
+[3/1/26, 10:04:33 PM] Dalia: haha yes
+[3/1/26, 10:07:48 PM] Bruno: Home safe, thanks everyone
+[3/1/26, 10:10:39 PM] Dalia: Checking the weather again tomorrow
+[3/3/26, 1:13:21 PM] Bruno: I can drive on Sunday, three seats free
+[3/3/26, 1:14:00 PM] Dalia: Trail report says it is open: https://example.com/reports/pine-ridge
+[3/3/26, 1:15:21 PM] Mira: Perfect
+[3/3/26, 1:17:42 PM] Tomasz: Do not forget your rain jacket 🥾
+[3/3/26, 1:20:41 PM] Mira: Do not forget your first aid kit 🥾🥾
+[3/3/26, 1:24:11 PM] Dalia: That climb was brutal last time 😂👍
+[3/3/26, 1:27:00 PM] Bruno: I can pick up two people on the way
+[3/3/26, 1:29:15 PM] Bruno: Running ten minutes late
+[3/3/26, 1:30:44 PM] Mira: ‎image omitted
+[3/3/26, 1:57:48 PM] Mira: Planning thread for Friday evening: route, cars, food ⛰️
+[3/3/26, 2:01:44 PM] Chen: Train or car? 👍🏽
+[3/3/26, 2:05:28 PM] Mira: Who has the map?
+[3/3/26, 2:06:46 PM] Bruno: Can we start at 9:00 instead?
+[3/3/26, 2:07:26 PM] Chen: That climb was brutal last time 🥾😂
+[3/3/26, 2:09:54 PM] Bruno: Works for me
+[3/3/26, 2:11:14 PM] Dalia: See you all at 8:00
+[3/3/26, 2:13:46 PM] Chen: See you all at 7:00
+[3/3/26, 2:14:11 PM] Tomasz: Agreed, Lantern Peak it is
+[3/3/26, 5:36:52 PM] Mira: I can drive on Sunday, three seats free
+[3/3/26, 5:38:47 PM] Mira: Booked the hut, details at https://example.org/huts/pine-ridge
+[3/3/26, 5:42:29 PM] Bruno: The view from the top is worth it
+[3/3/26, 5:45:15 PM] Chen: Works for me 😂
+[3/3/26, 5:48:55 PM] Dalia: I need new boots before Saturday
+[3/3/26, 5:52:31 PM] Mira: The view from the top is worth it 😅
+[3/3/26, 5:53:36 PM] Dalia: I will bring tea
+[3/4/26, 7:46:43 AM] Mira: Planning thread for Saturday: route, cars, food
+[3/4/26, 7:47:23 AM] Bruno: Count me in 👍🏽
+[3/4/26, 7:47:43 AM] Mira: That climb was brutal last time 👍
+[3/4/26, 7:51:39 AM] Dalia: That climb was brutal last time
+[3/4/26, 7:54:09 AM] Chen: See you all at 7:00
+[3/4/26, 7:54:40 AM] Dalia: Running ten minutes late 👍🏽
+[3/4/26, 3:04:09 PM] Tomasz: I found a new route near Windy Saddle, about 12 km
+[3/4/26, 3:04:55 PM] Mira: Too early for me 🥾
+[3/4/26, 3:05:33 PM] Dalia: ‎video omitted
+[3/4/26, 3:07:41 PM] Mira: Running ten minutes late
+[3/4/26, 3:11:03 PM] Bruno: Count me in
+[3/4/26, 5:59:06 PM] Chen: I can drive on Saturday, three seats free ☀️
+[3/4/26, 5:59:33 PM] Dalia: Agreed, Heron Lake it is
+[3/4/26, 6:03:30 PM] Mira: Do not forget your rain jacket
+[3/4/26, 6:04:06 PM] Dalia: My knee says short loop
+[3/4/26, 6:05:12 PM] Bruno: ‎image omitted
+[3/4/26, 6:06:14 PM] Mira: ‎GIF omitted
+[3/4/26, 8:44:38 PM] Mira: Forecast says rain on Saturday, should we move the hike?
+[3/4/26, 8:45:09 PM] Tomasz: haha yes
+[3/4/26, 8:47:22 PM] Bruno: Home safe, thanks everyone 🙌
+[3/4/26, 8:48:30 PM] Mira: See you all at 6:30
+[3/5/26, 7:45:02 PM] Bruno: I can drive on Friday evening, three seats free
+[3/5/26, 7:47:32 PM] Mira: Count me in
+[3/5/26, 7:49:19 PM] Bruno: Running ten minutes late
+[3/5/26, 7:50:46 PM] Chen: ‎GIF omitted
+[3/5/26, 8:17:06 PM] Tomasz: I found a new route near Mossy Creek, about 12 km 🥾
+[3/5/26, 8:18:23 PM] Chen: I can pick up two people on the way
+[3/5/26, 8:18:58 PM] Tomasz: Almost there 👍😅
+[3/5/26, 8:23:42 PM] Mira: Planning thread for Friday evening: route, cars, food
+[3/5/26, 8:27:32 PM] Bruno: Thanks!
+[3/5/26, 8:30:42 PM] Chen: Running ten minutes late
+[3/5/26, 8:33:44 PM] Bruno: Best hike so far
+[3/6/26, 8:04:56 AM] Mira: Can someone bring a spare sunscreen? 🥾
+[3/6/26, 8:07:21 AM] Dalia: I am in ‎<This message was edited>
+[3/6/26, 8:09:36 AM] Mira: See you all at 7:00
+[3/6/26, 8:11:25 AM] Chen: The view from the top is worth it
+[3/6/26, 8:12:27 AM] Mira: Packing list for Sunday:
+- boots
+- rain jacket
+
+2 litres of water each
+10/10 would recommend the chocolate
+[3/6/26, 8:15:31 AM] Chen: Not sure yet, will confirm tonight ⛰️
+[3/6/26, 1:04:47 PM] Bruno: Planning thread for Saturday: route, cars, food 😂
+[3/6/26, 1:07:39 PM] Mira: Next time we go to Lantern Peak
+[3/6/26, 1:08:41 PM] Chen: Next time we go to Pine Ridge
+[3/6/26, 1:11:22 PM] Mira: ‎image omitted
+[3/6/26, 4:59:56 PM] Bruno: Planning thread for Friday evening: route, cars, food 👍
+[3/6/26, 5:02:56 PM] Chen: ‎GIF omitted
+[3/6/26, 5:04:26 PM] Mira: The view from the top is worth it
+[3/6/26, 5:06:01 PM] Bruno: ‎video omitted
+[3/6/26, 5:06:37 PM] Mira: I am in
+[3/6/26, 5:07:18 PM] Bruno: I will bring tea
+[3/6/26, 5:10:37 PM] Chen: The view from the top is worth it
+[3/6/26, 8:52:19 PM] Chen: Can someone bring a spare trekking poles?
+[3/6/26, 8:54:27 PM] Tomasz: Do not forget your rain jacket ⛰️
+[3/6/26, 8:55:26 PM] Chen: Next time we go to Pine Ridge
+[3/6/26, 8:56:45 PM] Bruno: Not sure yet, will confirm tonight 😂
+[3/6/26, 8:57:26 PM] Dalia: The view from the top is worth it 😴
+[3/6/26, 10:55:37 PM] Mira: I found a new route near Heron Lake, about 12 km
+[3/6/26, 10:58:45 PM] Dalia: Bringing tea for everyone
+[3/6/26, 11:02:14 PM] Bruno: Perfect 🔥
+[3/6/26, 11:06:14 PM] Mira: Thanks!
+[3/6/26, 11:10:13 PM] Chen: Best hike so far
+[3/6/26, 11:11:26 PM] Bruno: Can we start at 7:30 instead?
+[3/6/26, 11:13:37 PM] Mira: I am in
+[3/6/26, 11:16:24 PM] Dalia: Count me in
+[3/6/26, 11:19:24 PM] Chen: Next time we go to Heron Lake
+[3/7/26, 7:35:00 AM] Mira: I found a new route near Lantern Peak, about 12 km 😂
+[3/7/26, 7:36:31 AM] Chen: Running ten minutes late 👍
+[3/7/26, 7:39:07 AM] Dalia: ‎video omitted
+[3/7/26, 7:41:47 AM] Tomasz: I will bring oranges ☀️ ‎<This message was edited>
+[3/7/26, 8:37:01 AM] Mira: Can someone bring a spare map?
+[3/7/26, 8:38:11 AM] Chen: Same plan as last week then ❤️ ‎<This message was edited>
+[3/7/26, 8:39:47 AM] Bruno: Thanks!
+[3/7/26, 8:42:07 AM] Mira: Works for me
+[3/7/26, 8:42:48 AM] Dalia: Next time we go to Heron Lake
+[3/7/26, 8:43:40 AM] Chen: Almost there 🙌
+[3/7/26, 12:53:21 PM] Bruno: Photos from Lantern Peak are amazing
+[3/7/26, 12:56:44 PM] Mira: Not sure yet, will confirm tonight 🔥
+[3/7/26, 12:59:00 PM] Bruno: Bringing sandwiches for everyone
+[3/7/26, 1:02:59 PM] Chen: ‎image omitted
+[3/7/26, 1:05:25 PM] Tomasz: Let us keep it easy this week
+[3/7/26, 1:08:43 PM] Dalia: Almost there 👍🏽❤️
+[3/7/26, 1:11:23 PM] Bruno: Plan for Friday evening:
+Meet: 7:30 at the car park
+Route: Fox Hollow - long loop
+Food: oranges
+[3/7/26, 1:15:13 PM] Dalia: Booked the hut, details at https://example.org/huts/heron-lake
+[3/7/26, 1:51:10 PM] Bruno: My legs are still sore from Lantern Peak 🙌
+[3/7/26, 1:52:35 PM] Mira: Same plan as last week then
+[3/7/26, 1:54:51 PM] Mira: Sounds good
+[3/7/26, 1:58:22 PM] Bruno: Same plan as last week then 😂
+[3/7/26, 1:59:46 PM] Chen: Too early for me 😴
+[3/7/26, 2:01:48 PM] Dalia: ‎sticker omitted
+[3/7/26, 2:02:16 PM] Chen: ‎GIF omitted
+[3/7/26, 2:03:28 PM] Dalia: Next time we go to Lantern Peak 🥾⛰️
+[3/7/26, 2:05:44 PM] Chen: Who has the map?
+[3/7/26, 5:05:09 PM] Bruno: What time are we starting on Sunday?
+[3/7/26, 5:09:01 PM] Chen: Let us keep it easy this week
+[3/7/26, 5:59:07 PM] Bruno: Weather for Sunday looks good, thinking Fox Hollow
+[3/7/26, 5:59:39 PM] Chen: Trail report says it is open: https://example.com/reports/pine-ridge
+[3/7/26, 6:00:42 PM] Bruno: Can we start at 6:30 instead? 🥾
+[3/7/26, 6:01:32 PM] Dalia: My knee says short loop
+[3/7/26, 6:05:29 PM] Bruno: Sounds good 👍🥾
+[3/7/26, 6:07:08 PM] Tomasz: haha yes
+[3/7/26, 6:07:45 PM] Mira: I have a spare first aid kit
+[3/7/26, 6:08:47 PM] Bruno: Who has the map?
+[3/7/26, 6:09:16 PM] Dalia: That climb was brutal last time
+[3/7/26, 7:55:47 PM] Mira: Is the Lantern Peak trail open after the storm?
+[3/7/26, 7:58:04 PM] Dalia: Train or car?
+[3/7/26, 7:58:35 PM] Bruno: ‎video omitted
+[3/7/26, 7:59:13 PM] Mira: Who has the map?
+[3/7/26, 8:00:05 PM] Bruno: Bringing bananas for everyone ⛰️🌧️
+[3/7/26, 8:03:23 PM] Mira: Next time we go to Heron Lake
+[3/7/26, 8:05:05 PM] Dalia: Long loop please 😂👍🏽
+[3/7/26, 8:07:52 PM] Bruno: Perfect
+[3/7/26, 9:51:43 PM] Dalia: My legs are still sore from Heron Lake
+[3/7/26, 9:55:13 PM] Mira: ❤️❤️❤️
+[3/7/26, 9:55:39 PM] Dalia: Route is here: https://example.com/trails/mossy-creek
+[3/7/26, 9:56:57 PM] Mira: Not sure yet, will confirm tonight
+[3/7/26, 9:57:29 PM] Mira: Plan for Saturday:
+Meet: 7:00 at the car park
+Route: Heron Lake - long loop
+Food: coffee
+[3/7/26, 10:00:54 PM] Chen: I can pick up two people on the way
+[3/7/26, 10:02:46 PM] Mira: Agreed, Windy Saddle it is
+[3/7/26, 10:04:20 PM] Bruno: Let us keep it easy this week ⛰️😴
+[3/7/26, 10:05:24 PM] Dalia: Booked the hut, details at https://example.org/huts/pine-ridge
+[3/8/26, 9:49:36 AM] Mira: What time are we starting on Sunday?
+[3/8/26, 9:53:15 AM] Chen: Weather link https://example.org/forecast/fox-hollow
+[3/8/26, 9:57:01 AM] Mira: Train or car?
+[3/8/26, 7:02:35 PM] Mira: Photos from Fox Hollow are amazing
+[3/8/26, 7:03:02 PM] Chen: Same plan as last week then 🔥
+[3/8/26, 7:05:15 PM] Chen: Let us keep it easy this week
+[3/8/26, 7:08:52 PM] Bruno: I will bring oranges
+[3/8/26, 7:11:30 PM] Tomasz: Perfect 🔥
+[3/8/26, 7:13:39 PM] Chen: Perfect
+[3/8/26, 7:16:25 PM] Dalia: Train or car?
+[3/8/26, 7:19:29 PM] Mira: 👍🏽👍🏽
+[3/8/26, 9:25:03 PM] Dalia: I can drive on Sunday, three seats free
+[3/8/26, 9:28:06 PM] Chen: Checking the weather again tomorrow 🥾
+[3/8/26, 9:31:59 PM] Dalia: Checking the weather again tomorrow 🌧️
+[3/8/26, 9:32:47 PM] Dalia: See you all at 7:00
+[3/8/26, 9:56:06 PM] Bruno: What time are we starting on Friday evening?
+[3/8/26, 9:58:56 PM] Dalia: I will bring chocolate 👍
+[3/8/26, 10:01:11 PM] Chen: That climb was brutal last time
+[3/8/26, 10:01:54 PM] Bruno: Running ten minutes late 😴
+[3/8/26, 10:04:48 PM] Chen: Booked the hut, details at https://example.org/huts/heron-lake
+[3/8/26, 10:04:50 PM] Dalia: Photos from Heron Lake are amazing
+[3/8/26, 10:05:34 PM] Bruno: ‎sticker omitted
+[3/8/26, 10:06:23 PM] Mira: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[3/8/26, 10:07:52 PM] Bruno: Long loop please
+[3/8/26, 10:10:42 PM] Mira: ‎image omitted
+[3/8/26, 10:13:47 PM] Tomasz: ‎sticker omitted
+[3/8/26, 10:16:17 PM] Chen: Same plan as last week then
+[3/8/26, 10:17:09 PM] Dalia: I am in 😴
+[3/8/26, 10:17:32 PM] Bruno: haha yes ☀️
+[3/9/26, 9:31:22 PM] Tomasz: Can someone bring a spare map?
+[3/9/26, 9:34:04 PM] Mira: ‎image omitted
+[3/9/26, 9:36:17 PM] Chen: 😂
+[3/9/26, 9:40:08 PM] Bruno: I will bring trail mix 🔥😂
+[3/9/26, 9:41:51 PM] Mira: Route is here: https://example.com/trails/fox-hollow
+[3/9/26, 9:43:55 PM] Bruno: Weather link https://example.org/forecast/heron-lake
+[3/10/26, 12:10:04 PM] Mira: Can someone bring a spare water bottle?
+[3/10/26, 12:12:27 PM] Dalia: Can we start at 8:00 instead?
+[3/10/26, 9:56:19 PM] Bruno: What time are we starting on Saturday? 👍👍
+[3/10/26, 9:56:52 PM] Chen: ❤️❤️❤️
+[3/10/26, 10:00:36 PM] Tomasz: haha yes
+[3/10/26, 10:03:37 PM] Dalia: My knee says short loop
+[3/10/26, 10:06:04 PM] Mira: The view from the top is worth it
+[3/10/26, 10:09:52 PM] Chen: Do not forget your first aid kit
+[3/11/26, 3:00:39 PM] Mira: Weather for Sunday looks good, thinking Windy Saddle
+[3/11/26, 3:01:13 PM] Chen: Running ten minutes late ⛰️
+[3/11/26, 3:02:33 PM] Bruno: Checking the weather again tomorrow
+[3/11/26, 3:02:58 PM] Tomasz: I can pick up two people on the way 🙌
+[3/11/26, 3:06:28 PM] Mira: Not sure yet, will confirm tonight
+[3/11/26, 3:09:09 PM] Chen: Do not forget your sunscreen
+[3/11/26, 3:12:46 PM] Mira: ‎image omitted
+[3/11/26, 3:15:35 PM] Tomasz: I can pick up two people on the way
+[3/11/26, 3:17:57 PM] Chen: Too early for me
+[3/11/26, 7:36:56 PM] Bruno: My legs are still sore from Lantern Peak 🌧️
+[3/11/26, 7:37:29 PM] Dalia: Thanks!
+[3/11/26, 7:39:55 PM] Mira: ‎GIF omitted
+[3/11/26, 7:40:51 PM] Chen: Home safe, thanks everyone
+[3/11/26, 7:42:17 PM] Bruno: Trail was muddy but fun ☀️😴
+[3/11/26, 7:42:47 PM] Mira: ‎This message was deleted.
+[3/11/26, 7:43:52 PM] Chen: Great idea 👍🥾
+[3/11/26, 7:46:51 PM] Bruno: Same plan as last week then ☀️
+[3/11/26, 7:49:09 PM] Chen: Home safe, thanks everyone ❤️
+[3/12/26, 9:15:01 AM] Chen: Planning thread for Sunday: route, cars, food 😂
+[3/12/26, 9:15:35 AM] Dalia: ‎video omitted
+[3/12/26, 9:17:45 AM] Mira: Running ten minutes late ☀️
+[3/12/26, 9:19:29 AM] Bruno: I can pick up two people on the way 😂😂
+[3/12/26, 9:22:31 AM] Tomasz: My knee says short loop
+[3/12/26, 9:24:26 AM] Chen: ‎image omitted
+[3/12/26, 9:26:39 AM] Dalia: I will bring oranges
+[3/12/26, 7:31:48 PM] Bruno: Who is in for Heron Lake on Sunday?
+[3/12/26, 7:33:02 PM] Mira: ‎image omitted
+[3/12/26, 7:36:34 PM] Bruno: That climb was brutal last time 👍🏽
+[3/12/26, 7:38:28 PM] Mira: ‎image omitted
+[3/12/26, 7:38:49 PM] Chen: I have a spare first aid kit
+[3/12/26, 7:39:26 PM] Bruno: Agreed, Lantern Peak it is
+[3/12/26, 7:42:32 PM] Dalia: ‎video omitted
+[3/12/26, 10:56:47 PM] Chen: Photos from Mossy Creek are amazing
+[3/12/26, 11:00:39 PM] Bruno: ok
+[3/12/26, 11:01:29 PM] Chen: Home safe, thanks everyone ‎<This message was edited>
+[3/13/26, 7:28:28 AM] Dalia: Reminder: we meet at 8:00 at the car park
+[3/13/26, 7:31:17 AM] Chen: My knee says short loop
+[3/13/26, 8:02:21 AM] Mira: I can drive on Saturday, three seats free 🧗‍♀️
+[3/13/26, 8:04:44 AM] Bruno: Works for me
+[3/13/26, 8:08:28 AM] Chen: Long loop please
+[3/13/26, 8:08:50 AM] Bruno: Route is here: https://example.com/trails/windy-saddle
+[3/13/26, 8:09:37 AM] Chen: I have a spare sunscreen 👍
+[3/13/26, 8:11:35 AM] Bruno: Sounds good
+[3/13/26, 8:14:07 AM] Dalia: Home safe, thanks everyone
+[3/13/26, 1:08:31 PM] Mira: Reminder: we meet at 8:00 at the car park
+[3/13/26, 1:09:02 PM] Dalia: I am in
+[3/13/26, 1:12:14 PM] Mira: I have a spare first aid kit
+[3/13/26, 1:15:27 PM] Dalia: 👍👍👍
+[3/13/26, 1:15:58 PM] Bruno: Long loop please 😂
+[3/13/26, 1:17:52 PM] Dalia: Great idea
+[3/13/26, 7:05:19 PM] Mira: Should we do the long loop or the short one? 🥾
+[3/13/26, 7:05:45 PM] Bruno: Sounds good 👍🏽
+[3/13/26, 7:08:05 PM] Tomasz: Home safe, thanks everyone
+[3/13/26, 7:11:30 PM] Chen: Long loop please
+[3/13/26, 7:14:06 PM] Bruno: Train or car?
+[3/13/26, 7:16:41 PM] Chen: Sounds good
+[3/13/26, 7:17:18 PM] Mira: Perfect 👍🏽
+[3/13/26, 7:17:50 PM] Bruno: ‎video omitted
+[3/14/26, 1:05:05 PM] Tomasz: Forecast says rain on Saturday, should we move the hike?
+[3/14/26, 1:07:08 PM] Bruno: ‎sticker omitted
+[3/14/26, 1:10:16 PM] Bruno: Not sure yet, will confirm tonight
+[3/14/26, 1:12:39 PM] Chen: Trail report says it is open: https://example.com/reports/heron-lake
+[3/14/26, 1:14:33 PM] Bruno: Who has the map?
+[3/14/26, 1:16:12 PM] Dalia: My knee says short loop
+[3/14/26, 1:17:53 PM] Mira: ‎image omitted
+[3/14/26, 1:19:27 PM] Tomasz: Let us keep it easy this week 🙌
+[3/14/26, 7:35:56 PM] Mira: Planning thread for Saturday: route, cars, food 😅
+[3/14/26, 7:36:45 PM] Dalia: The view from the top is worth it 🔥
+[3/14/26, 7:39:41 PM] Mira: Sounds good 🥾
+[3/14/26, 7:40:40 PM] Bruno: Trail was muddy but fun 🙌
+[3/14/26, 7:41:30 PM] Bruno: haha yes
+[3/14/26, 7:48:28 PM] Mira: I found a new route near Lantern Peak, about 12 km
+[3/14/26, 7:51:11 PM] Chen: Trail report says it is open: https://example.com/reports/pine-ridge
+[3/14/26, 7:52:14 PM] Mira: My knee says short loop
+[3/14/26, 7:53:14 PM] Bruno: ok
+[3/14/26, 7:56:01 PM] Mira: ‎video omitted
+[3/14/26, 8:25:18 PM] Chen: Anyone free for a short hike on Saturday?
+[3/14/26, 8:28:28 PM] Chen: Same plan as last week then 😂
+[3/14/26, 8:30:36 PM] Mira: Who has the map? 🔥
+[3/14/26, 8:31:50 PM] Bruno: Count me in
+[3/14/26, 9:00:51 PM] Dalia: My legs are still sore from Heron Lake
+[3/14/26, 9:01:49 PM] Mira: ok ☀️
+[3/14/26, 9:04:11 PM] Chen: Running ten minutes late
+[3/14/26, 9:07:13 PM] Dalia: I can pick up two people on the way
+[3/14/26, 9:09:40 PM] Mira: That climb was brutal last time
+[3/14/26, 9:11:24 PM] Mira: Almost there
+[3/14/26, 9:14:09 PM] Bruno: Running ten minutes late
+[3/14/26, 9:15:06 PM] Mira: I am in 🧗‍♀️
+[3/14/26, 10:32:31 PM] Mira: Planning thread for Saturday: route, cars, food 🔥☀️
+[3/14/26, 10:36:19 PM] Bruno: I am in
+[3/14/26, 10:39:20 PM] Dalia: ‎video omitted
+[3/14/26, 10:40:30 PM] Chen: I have a spare sunscreen
+[3/14/26, 10:42:11 PM] Mira: The view from the top is worth it
+[3/15/26, 8:09:25 AM] Dalia: Weather for Sunday looks good, thinking Fox Hollow
+[3/15/26, 8:10:42 AM] Chen: Count me in
+[3/15/26, 8:14:27 AM] Chen: I am in
+[3/15/26, 8:17:37 AM] Mira: My knee says short loop
+[3/15/26, 8:18:11 AM] Bruno: Best hike so far
+[3/15/26, 8:19:24 AM] Bruno: Plan for Friday evening:
+Meet: 7:30 at the car park
+Route: Pine Ridge - long loop
+Food: dumplings
+[3/15/26, 8:21:11 AM] Dalia: Sounds good
+[3/15/26, 8:24:01 AM] Chen: Same plan as last week then 👍
+[3/15/26, 1:48:08 PM] Bruno: Photos from Windy Saddle are amazing
+[3/15/26, 1:51:09 PM] Tomasz: Perfect
+[3/15/26, 1:52:25 PM] Mira: Who has the map?
+[3/15/26, 1:54:21 PM] Bruno: Do not forget your rain jacket 👍👍🏽
+[3/15/26, 1:58:21 PM] Dalia: Too early for me
+[3/15/26, 2:00:10 PM] Mira: ‎image omitted
+[3/15/26, 2:13:37 PM] Mira: Reminder: we meet at 6:30 at the car park 🥾
+[3/15/26, 2:16:32 PM] Dalia: Almost there
+[3/15/26, 2:16:53 PM] Chen: Best hike so far 🥾
+[3/15/26, 2:19:42 PM] Tomasz: Let us keep it easy this week
+[3/15/26, 2:22:13 PM] Chen: Can we start at 8:00 instead?
+[3/15/26, 2:23:54 PM] Bruno: ‎image omitted
+[3/15/26, 2:25:56 PM] Mira: I am in 👍
+[3/15/26, 2:29:11 PM] Chen: 😂😂😂
+[3/15/26, 6:16:03 PM] Chen: Reminder: we meet at 9:00 at the car park
+[3/15/26, 6:19:12 PM] Mira: Agreed, Heron Lake it is ❤️
+[3/15/26, 6:23:09 PM] Bruno: haha yes
+[3/15/26, 6:26:29 PM] Tomasz: Sounds good
+[3/15/26, 7:50:53 PM] Dalia: Anyone free for a short hike on Sunday? ☀️⛰️
+[3/15/26, 7:51:28 PM] Bruno: I am in
+[3/15/26, 7:54:43 PM] Bruno: Is the Mossy Creek trail open after the storm?
+[3/15/26, 7:57:48 PM] Chen: Agreed, Pine Ridge it is 👍🏽
+[3/15/26, 7:58:55 PM] Bruno: haha yes
+[3/15/26, 7:59:36 PM] Mira: Can we start at 7:30 instead? 🌧️😂
+[3/15/26, 8:01:43 PM] Mira: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[3/15/26, 8:02:46 PM] Mira: I am in 🙌
+[3/15/26, 8:03:34 PM] Dalia: Trail was muddy but fun 🥾
+[3/16/26, 9:27:21 PM] Mira: Weather for Saturday looks good, thinking Pine Ridge
+[3/16/26, 9:30:25 PM] Bruno: Long loop please 🔥
+[3/16/26, 9:30:59 PM] Mira: Running ten minutes late
+[3/16/26, 9:34:24 PM] Dalia: Next time we go to Windy Saddle
+[3/16/26, 9:35:51 PM] Mira: Do not forget your water bottle 😂 ‎<This message was edited>
+[3/16/26, 9:38:34 PM] Bruno: Not sure yet, will confirm tonight 👍❤️
+[3/16/26, 9:41:18 PM] Chen: Can we start at 9:00 instead?
+[3/16/26, 9:43:54 PM] Tomasz: Packing list for Saturday:
+- first aid kit
+- sunscreen
+
+2 litres of water each
+10/10 would recommend the bananas
+[3/16/26, 9:44:58 PM] Bruno: Not sure yet, will confirm tonight 👍🏽
+[3/17/26, 1:04:50 PM] Bruno: Reminder: we meet at 8:00 at the car park 😂
+[3/17/26, 1:07:19 PM] Dalia: That climb was brutal last time
+[3/17/26, 1:10:48 PM] Bruno: My knee says short loop
+[3/17/26, 1:13:06 PM] Dalia: haha yes
+[3/17/26, 1:16:53 PM] Chen: Almost there
+[3/17/26, 1:20:51 PM] Mira: haha yes
+[3/17/26, 1:24:11 PM] Mira: Trail was muddy but fun ‎<This message was edited>
+[3/17/26, 1:26:29 PM] Chen: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[3/17/26, 8:56:07 PM] Mira: What time are we starting on Sunday?
+[3/17/26, 8:59:47 PM] Mira: I need new boots before Sunday
+[3/17/26, 10:16:09 PM] Tomasz: Should we do the long loop or the short one?
+[3/17/26, 10:16:39 PM] Bruno: Can we start at 7:30 instead?
+[3/17/26, 10:18:37 PM] Chen: Checking the weather again tomorrow
+[3/17/26, 10:21:57 PM] Dalia: Sounds good 🔥🥾
+[3/18/26, 9:10:57 PM] Bruno: Photos from Windy Saddle are amazing
+[3/18/26, 9:13:02 PM] Dalia: ‎video omitted
+[3/18/26, 9:15:19 PM] Mira: Too early for me
+[3/18/26, 9:16:50 PM] Chen: Train or car?
+[3/18/26, 9:17:23 PM] Dalia: ‎image omitted
+[3/18/26, 9:56:39 PM] Bruno: Weather for Saturday looks good, thinking Mossy Creek 🙌
+[3/18/26, 9:57:45 PM] Bruno: I will bring trail mix 🌧️
+[3/18/26, 10:00:46 PM] Mira: haha yes
+[3/18/26, 10:03:11 PM] Bruno: Can we start at 8:00 instead?
+[3/18/26, 10:21:53 PM] Mira: Anyone free for a short hike on Saturday?
+[3/18/26, 10:22:13 PM] Bruno: Agreed, Windy Saddle it is
+[3/18/26, 10:24:16 PM] Mira: ‎GIF omitted
+[3/18/26, 10:24:46 PM] Chen: Not sure yet, will confirm tonight ⛰️
+[3/18/26, 10:28:42 PM] Mira: Same plan as last week then
+[3/18/26, 10:29:59 PM] Dalia: Great idea
+[3/18/26, 10:33:49 PM] Bruno: Next time we go to Fox Hollow
+[3/19/26, 9:51:11 AM] Mira: What time are we starting on Saturday?
+[3/19/26, 9:52:58 AM] Dalia: Count me in 😅
+[3/19/26, 9:56:15 AM] Mira: Too early for me 😂
+[3/19/26, 10:00:04 AM] Dalia: That climb was brutal last time 🥾
+[3/19/26, 10:01:15 AM] Mira: Plan for Friday evening:
+Meet: 7:00 at the car park
+Route: Windy Saddle - long loop
+Food: bananas
+[3/19/26, 12:20:09 PM] Bruno: I found a new route near Windy Saddle, about 12 km
+[3/19/26, 12:21:43 PM] Tomasz: Let us keep it easy this week
+[3/19/26, 12:22:19 PM] Dalia: Train or car? 👍
+[3/19/26, 1:31:40 PM] Bruno: Who is in for Fox Hollow on Saturday?
+[3/19/26, 1:33:57 PM] Dalia: Home safe, thanks everyone 🙌👍
+[3/19/26, 1:35:29 PM] Bruno: 🌧️🌧️🌧️
+[3/19/26, 1:37:10 PM] Chen: Not sure yet, will confirm tonight ☀️
+[3/19/26, 1:38:01 PM] Bruno: Packing list for Friday evening:
+- water bottle
+- sunscreen
+
+2 litres of water each
+10/10 would recommend the tea
+[3/19/26, 1:39:03 PM] Chen: Almost there
+[3/19/26, 1:40:42 PM] Mira: Checking the weather again tomorrow 🥾
+[3/19/26, 10:32:28 PM] Bruno: Planning thread for Friday evening: route, cars, food 😅
+[3/19/26, 10:33:29 PM] Tomasz: See you all at 6:30
+[3/19/26, 10:35:36 PM] Bruno: Who has the map?
+[3/19/26, 10:37:04 PM] Chen: I can pick up two people on the way
+[3/19/26, 10:39:56 PM] Mira: Count me in
+[3/19/26, 10:42:32 PM] Tomasz: Works for me
+[3/21/26, 8:39:15 AM] Chen: Can someone bring a spare water bottle?
+[3/21/26, 8:41:57 AM] Bruno: Same plan as last week then
+[3/21/26, 8:43:45 AM] Mira: My knee says short loop 😂
+[3/21/26, 8:46:23 AM] Bruno: Not sure yet, will confirm tonight
+[3/21/26, 8:46:56 AM] Chen: Who has the map?
+[3/21/26, 8:48:45 AM] Mira: Running ten minutes late
+[3/21/26, 8:50:33 AM] Chen: Works for me 🌧️
+[3/21/26, 8:52:05 AM] Mira: Thanks! 🔥👍🏽
+[3/21/26, 9:10:40 AM] Mira: Reminder: we meet at 6:30 at the car park
+[3/21/26, 9:12:05 AM] Bruno: I am in 🥾
+[3/21/26, 9:13:48 AM] Bruno: Home safe, thanks everyone
+[3/21/26, 9:17:37 AM] Chen: Do not forget your map 👍
+[3/21/26, 9:18:15 AM] Dalia: Plan for Saturday:
+Meet: 7:00 at the car park
+Route: Mossy Creek - long loop
+Food: chocolate
+[3/21/26, 9:22:06 AM] Chen: Can we start at 7:30 instead?
+[3/21/26, 9:23:56 AM] Dalia: Same plan as last week then
+[3/21/26, 12:06:39 PM] Mira: My legs are still sore from Windy Saddle ❤️
+[3/21/26, 12:08:21 PM] Chen: Agreed, Mossy Creek it is 😅😂
+[3/21/26, 12:08:53 PM] Mira: Not sure yet, will confirm tonight
+[3/21/26, 12:10:59 PM] Dalia: See you all at 9:00 👍😂
+[3/21/26, 12:13:33 PM] Chen: Can we start at 6:30 instead?
+[3/21/26, 12:14:17 PM] Tomasz: Who has the map?
+[3/21/26, 12:18:12 PM] Mira: Works for me
+[3/21/26, 12:21:04 PM] Mira: ‎GIF omitted
+[3/21/26, 6:27:55 PM] Dalia: Can someone bring a spare first aid kit?
+[3/21/26, 6:28:27 PM] Tomasz: 😂😂
+[3/21/26, 7:11:23 PM] Mira: I found a new route near Fox Hollow, about 12 km
+[3/21/26, 7:12:18 PM] Bruno: Can we start at 7:30 instead?
+[3/21/26, 7:16:04 PM] Dalia: ☀️☀️☀️
+[3/21/26, 7:19:38 PM] Bruno: Same plan as last week then
+[3/21/26, 7:23:30 PM] Dalia: Next time we go to Fox Hollow
+[3/21/26, 7:26:16 PM] Mira: Long loop please
+[3/21/26, 7:26:49 PM] Bruno: Next time we go to Windy Saddle
+[3/21/26, 7:28:30 PM] Chen: ‎GIF omitted
+[3/21/26, 9:10:01 PM] Dalia: Who is in for Mossy Creek on Friday evening?
+[3/21/26, 9:10:24 PM] Bruno: 🥾🥾🥾
+[3/21/26, 9:11:48 PM] Dalia: ‎sticker omitted
+[3/21/26, 9:14:47 PM] Mira: Great idea ⛰️
+[3/21/26, 10:03:21 PM] Bruno: Anyone free for a short hike on Saturday?
+[3/21/26, 10:06:38 PM] Chen: Train or car?
+[3/21/26, 10:08:37 PM] Mira: 🥾
+[3/21/26, 10:09:07 PM] Bruno: Count me in
+[3/21/26, 10:09:43 PM] Dalia: Great idea
+[3/21/26, 10:11:21 PM] Chen: Best hike so far ☀️⛰️
+[3/22/26, 10:46:07 AM] Chen: Can someone bring a spare water bottle?
+[3/22/26, 10:47:14 AM] Chen: Count me in
+[3/22/26, 10:48:46 AM] Mira: Do not forget your boots 🥾
+[3/22/26, 10:49:18 AM] Chen: Same plan as last week then
+[3/22/26, 10:51:20 AM] Mira: Perfect ☀️
+[3/22/26, 10:52:56 AM] Chen: I can pick up two people on the way 🔥😂
+[3/22/26, 10:54:55 AM] Mira: Next time we go to Mossy Creek
+[3/22/26, 10:58:09 AM] Bruno: The view from the top is worth it
+[3/22/26, 11:00:27 AM] Mira: Packing list for Sunday:
+- first aid kit
+- sunscreen
+
+2 litres of water each
+10/10 would recommend the chocolate
+[3/22/26, 6:02:28 PM] Mira: Who is in for Heron Lake on Saturday?
+[3/22/26, 6:03:01 PM] Bruno: Checking the weather again tomorrow ☀️👍
+[3/22/26, 6:04:25 PM] Dalia: Trail was muddy but fun
+[3/22/26, 6:06:12 PM] Chen: Best hike so far
+[3/22/26, 6:06:56 PM] Bruno: Great idea
+[3/22/26, 6:08:46 PM] Dalia: 😂
+[3/22/26, 9:34:11 PM] Mira: What time are we starting on Saturday? 😂
+[3/22/26, 9:35:23 PM] Tomasz: haha yes
+[3/22/26, 9:37:54 PM] Chen: ‎GIF omitted
+[3/22/26, 9:39:32 PM] Mira: Next time we go to Fox Hollow
+[3/22/26, 9:41:38 PM] Chen: ‎image omitted
+[3/22/26, 9:43:42 PM] Bruno: Count me in
+[3/22/26, 9:47:36 PM] Mira: Count me in
+[3/23/26, 8:54:40 PM] Chen: My legs are still sore from Windy Saddle
+[3/23/26, 8:58:28 PM] Dalia: ‎image omitted
+[3/23/26, 9:00:25 PM] Chen: Long loop please
+[3/23/26, 9:02:24 PM] Mira: ‎image omitted
+[3/23/26, 9:04:52 PM] Tomasz: Running ten minutes late
+[3/23/26, 9:05:30 PM] Chen: I have a spare first aid kit
+[3/23/26, 9:07:49 PM] Mira: My knee says short loop
+[3/24/26, 4:08:51 PM] Chen: I can drive on Sunday, three seats free
+[3/24/26, 4:11:56 PM] Chen: 🙌
+[3/24/26, 4:15:00 PM] Mira: My knee says short loop
+[3/24/26, 4:15:46 PM] Chen: ‎image omitted
+[3/24/26, 4:18:03 PM] Dalia: Almost there ⛰️
+[3/24/26, 4:21:16 PM] Bruno: I can pick up two people on the way 😂
+[3/24/26, 4:23:54 PM] Tomasz: Almost there
+[3/24/26, 4:25:06 PM] Bruno: 😂😂😂
+[3/24/26, 4:25:48 PM] Mira: Same plan as last week then
+[3/24/26, 8:22:00 PM] Mira: Reminder: we meet at 7:30 at the car park
+[3/24/26, 8:24:02 PM] Tomasz: I have a spare first aid kit
+[3/24/26, 8:26:49 PM] Bruno: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[3/24/26, 8:27:31 PM] Chen: Let us keep it easy this week
+[3/24/26, 8:29:40 PM] Mira: haha yes
+[3/24/26, 8:32:15 PM] Bruno: Checking the weather again tomorrow
+[3/24/26, 8:34:23 PM] Dalia: ‎GIF omitted
+[3/24/26, 8:37:41 PM] Tomasz: See you all at 8:00
+[3/24/26, 8:39:52 PM] Bruno: ‎image omitted
+[3/25/26, 8:14:20 AM] Tomasz: Can someone bring a spare boots? 👍🏽
+[3/25/26, 8:14:49 AM] Bruno: Bringing chocolate for everyone
+[3/25/26, 8:18:04 AM] Tomasz: Route is here: https://example.com/trails/heron-lake
+[3/25/26, 8:18:35 AM] Dalia: The view from the top is worth it
+[3/25/26, 8:21:04 AM] Chen: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[3/25/26, 8:23:08 AM] Mira: I have a spare trekking poles 👍
+[3/25/26, 8:23:33 AM] Tomasz: Cars for Saturday:
+1. Mira - three seats
+2. Bruno - two seats
+Everyone else takes the train
+[3/25/26, 8:26:00 AM] Mira: Perfect ☀️
+[3/25/26, 8:29:17 AM] Mira: Should we do the long loop or the short one? 😂
+[3/25/26, 8:32:08 AM] Bruno: Plan for Friday evening:
+Meet: 6:30 at the car park
+Route: Heron Lake - long loop
+Food: tea
+[3/25/26, 8:35:20 AM] Mira: I can pick up two people on the way
+[3/25/26, 10:13:14 PM] Chen: I can drive on Saturday, three seats free ❤️
+[3/25/26, 10:17:08 PM] Mira: Packing list for Saturday:
+- rain jacket
+- trekking poles
+
+2 litres of water each
+10/10 would recommend the trail mix
+[3/25/26, 10:20:40 PM] Dalia: Trail was muddy but fun
+[3/25/26, 10:24:05 PM] Mira: Can we start at 8:00 instead?
+[3/25/26, 10:26:45 PM] Chen: Great idea
+[3/26/26, 7:57:51 AM] Chen: I can drive on Friday evening, three seats free
+[3/26/26, 8:00:51 AM] Chen: Perfect
+[3/26/26, 8:02:08 AM] Mira: ‎GIF omitted
+[3/26/26, 8:05:28 AM] Tomasz: Same plan as last week then 🔥
+[3/26/26, 8:07:50 AM] Bruno: Too early for me ‎<This message was edited>
+[3/26/26, 2:14:24 PM] Bruno: Photos from Fox Hollow are amazing ⛰️🔥
+[3/26/26, 2:17:23 PM] Dalia: Perfect
+[3/26/26, 6:56:08 PM] Dalia: Anyone free for a short hike on Saturday?
+[3/26/26, 6:57:57 PM] Mira: Route is here: https://example.com/trails/mossy-creek
+[3/26/26, 10:40:07 PM] Tomasz: My legs are still sore from Fox Hollow
+[3/26/26, 10:44:02 PM] Mira: ‎image omitted
+[3/26/26, 10:47:29 PM] Bruno: ‎image omitted
+[3/26/26, 10:50:31 PM] Chen: Next time we go to Windy Saddle
+[3/26/26, 10:52:50 PM] Bruno: ok 🙌⛰️
+[3/27/26, 6:11:33 PM] Bruno: What time are we starting on Sunday?
+[3/27/26, 6:14:33 PM] Mira: Perfect
+[3/27/26, 6:15:28 PM] Dalia: Bringing coffee for everyone
+[3/27/26, 6:17:44 PM] Mira: Too early for me 🙌👍
+[3/27/26, 6:20:21 PM] Dalia: ‎image omitted
+[3/27/26, 6:21:42 PM] Tomasz: haha yes
+[3/27/26, 7:30:04 PM] Bruno: Forecast says rain on Sunday, should we move the hike?
+[3/27/26, 7:30:27 PM] Mira: ‎This message was deleted.
+[3/27/26, 7:31:07 PM] Dalia: Who has the map?
+[3/27/26, 7:31:30 PM] Chen: Not sure yet, will confirm tonight ☀️
+[3/27/26, 8:44:10 PM] Mira: Should we do the long loop or the short one?
+[3/27/26, 8:46:20 PM] Bruno: I have a spare map
+[3/27/26, 8:47:19 PM] Mira: Thanks! 👍
+[3/27/26, 8:48:24 PM] Chen: Can we start at 7:30 instead?
+[3/27/26, 8:51:29 PM] Mira: ok
+[3/27/26, 8:53:17 PM] Mira: ok 🌧️
+[3/27/26, 8:56:03 PM] Chen: I need new boots before Saturday
+[3/27/26, 8:57:14 PM] Dalia: The view from the top is worth it ❤️
+[3/27/26, 9:00:17 PM] Bruno: My knee says short loop
+[3/28/26, 7:23:55 PM] Tomasz: Photos from Heron Lake are amazing
+[3/28/26, 7:27:16 PM] Bruno: I am in 🧗‍♀️
+[3/28/26, 7:30:41 PM] Mira: Plan for Saturday:
+Meet: 9:00 at the car park
+Route: Heron Lake - long loop
+Food: sandwiches
+[3/28/26, 7:33:33 PM] Chen: Can we start at 7:30 instead?
+[3/28/26, 7:34:36 PM] Bruno: Let us keep it easy this week
+[3/28/26, 7:36:16 PM] Dalia: I am in
+[3/28/26, 7:39:38 PM] Bruno: ‎GIF omitted
+[3/28/26, 7:42:11 PM] Chen: Almost there
+[3/28/26, 7:45:48 PM] Mira: Anyone free for a short hike on Sunday?
+[3/28/26, 7:46:39 PM] Bruno: I am in
+[3/28/26, 7:49:45 PM] Chen: Too early for me
+[3/28/26, 7:51:16 PM] Bruno: ⛰️⛰️
+[3/28/26, 7:52:49 PM] Dalia: Perfect
+[3/28/26, 8:22:12 PM] Mira: Anyone free for a short hike on Friday evening?
+[3/28/26, 8:23:20 PM] Bruno: Almost there
+[3/28/26, 8:26:10 PM] Mira: See you all at 6:30
+[3/28/26, 8:28:37 PM] Chen: Checking the weather again tomorrow
+[3/28/26, 8:31:39 PM] Bruno: Too early for me
+[3/28/26, 9:54:21 PM] Dalia: I found a new route near Heron Lake, about 12 km
+[3/28/26, 9:55:29 PM] Bruno: ok
+[3/28/26, 9:59:00 PM] Chen: Almost there
+[3/28/26, 10:00:29 PM] Mira: Plan for Saturday:
+Meet: 9:00 at the car park
+Route: Pine Ridge - long loop
+Food: coffee
+[3/28/26, 10:01:53 PM] Chen: Same plan as last week then
+[3/28/26, 10:03:14 PM] Bruno: Thanks! 😂
+[3/28/26, 10:03:58 PM] Mira: Too early for me
+[3/29/26, 7:02:00 AM] Mira: I can drive on Sunday, three seats free
+[3/29/26, 7:03:12 AM] Mira: Count me in 😂❤️
+[3/29/26, 7:06:29 AM] Bruno: Works for me 👍
+[3/29/26, 7:08:52 AM] Chen: I will bring trail mix ‎<This message was edited>
+[3/29/26, 7:11:10 AM] Bruno: Perfect
+[3/29/26, 7:14:22 AM] Chen: Best hike so far 👍
+[3/29/26, 7:15:17 AM] Dalia: My knee says short loop 🥾
+[3/29/26, 5:50:27 PM] Mira: Planning thread for Sunday: route, cars, food
+[3/29/26, 5:53:01 PM] Tomasz: Route is here: https://example.com/trails/heron-lake
+[3/29/26, 5:54:50 PM] Bruno: ‎image omitted
+[3/29/26, 6:34:12 PM] Mira: Anyone free for a short hike on Saturday? 🙌
+[3/29/26, 6:37:35 PM] Bruno: Let us keep it easy this week
+[3/29/26, 6:41:11 PM] Chen: The view from the top is worth it 🥾
+[3/29/26, 6:42:32 PM] Bruno: haha yes 🔥
+[3/29/26, 6:46:30 PM] Chen: Long loop please
+[3/29/26, 6:48:15 PM] Bruno: ‎GIF omitted
+[3/29/26, 6:50:39 PM] Mira: I can pick up two people on the way
+[3/29/26, 6:51:57 PM] Chen: I am in

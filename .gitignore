@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets (the project needs none, this is a safety net)
+.env
+
+# ---------------------------------------------------------------------------
+# Never commit real chats.
+# Every .txt and .zip is ignored by default, wherever it is in the repo.
+# Only the files allow-listed below can be committed.
+# ---------------------------------------------------------------------------
+*.txt
+*.zip
+_chat.txt
+WhatsApp Chat*
+chats/
+exports/
+private/
+
+!requirements.txt
+!requirements-dev.txt
+!whatsapp_analyzer/stopwords_en.txt
+!examples/sample_chat_android.txt
+!examples/sample_chat_iphone.txt

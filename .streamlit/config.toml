@@ -11,3 +11,8 @@ address = "localhost"
 
 [client]
 toolbarMode = "minimal"
+
+[theme]
+# Fixed light theme, so chart colours are the ones that were checked.
+base = "light"
+primaryColor = "#2a78d6"
